@@ -1,0 +1,510 @@
+strDrink,strGlass,IngredientPairs,Garnishes
+'57 Chevy with a White License Plate,Highball glass,"[('Chocolate liqueur', 'H'), ('Vodka', 'H')]",[]
+1-900-FUK-MEUP,Old-fashioned glass,"[('Vodka', 'L'), ('Orange liqueur', 'L'), ('Chambord raspberry liqueur', 'L'), ('Melon liqueur', 'L'), ('Rum', 'L'), ('Amaretto', 'L'), ('Cranberry juice', 'L'), ('Pineapple juice', 'L')]",[]
+110 in the shade,Beer Glass,"[('Beer', 'H'), ('Tequila', 'L')]",[]
+151 Florida Bushwacker,Beer mug,"[('Rum', 'L'), ('Light rum', 'L'), ('Rum', 'L'), ('Chocolate liqueur', 'L'), ('Orange liqueur', 'L'), ('Milk', 'L'), ('Coconut liqueur', 'L'), ('Vanilla ice-cream', 'H')]",[]
+155 Belmont,White wine glass,"[('Dark rum', 'L'), ('Light rum', 'M'), ('Vodka', 'L'), ('Orange juice', 'L')]",[]
+24k nightmare,Shot glass,"[('Cinnamon liqueur', 'M'), ('Jägermeister', 'M'), ('Schnapps', 'M'), ('Rum', 'M')]",[]
+252,Shot glass,"[('Rum', 'H'), ('Bourbon', 'H')]",[]
+3 Wise Men,Collins glass,"[('Whiskey', 'M'), ('Whiskey', 'M'), ('Bourbon', 'M')]",[]
+3-Mile Long Island Iced Tea,Collins Glass,"[('Gin', 'L'), ('Light rum', 'L'), ('Tequila', 'L'), ('Triple sec', 'L'), ('Vodka', 'L')]","['Sweet and sour', 'Bitters']"
+410 Gone,Collins Glass,"[('Vodka', 'H')]",[]
+50/50,Collins Glass,"[('Vodka', 'H')]","['Orange liqueur', 'Orange juice']"
+69 Special,Collins Glass,"[('Gin', 'M'), ('Sprite', 'H'), ('Lemon juice', 'L')]",[]
+747,Shot glass,"[('Coffee liqueur', 'M'), ('Coffee liqueur', 'M'), ('Frangelico', 'M')]",[]
+9 1/2 Weeks,Cocktail glass,"[('Vodka', 'H'), ('Orange liqueur', 'L'), ('Orange juice', 'M')]",['Strawberry liqueur']
+A Day at the Beach,Highball glass,"[('Rum', 'L'), ('Amaretto', 'L'), ('Orange juice', 'H'), ('Syrup', 'L')]",[]
+A Furlong Too Late,Highball glass,"[('Light rum', 'M'), ('Ginger beer', 'H')]",['Lemon peel']
+A Gilligan's Island,Collins glass,"[('Vodka', 'L'), ('Schnapps', 'L'), ('Orange juice', 'M'), ('Cranberry juice', 'M')]",[]
+A Night In Old Mandalay,Highball glass,"[('Light rum', 'L'), ('Rum', 'L'), ('Orange juice', 'L'), ('Lemon juice', 'L'), ('Ginger ale', 'H')]",['Lemon peel']
+A Piece of Ass,Highball glass,"[('Amaretto', 'H'), ('Whiskey', 'H')]",['Ice']
+A Splash of Nash,Highball glass,"[('Cranberry juice', 'M'), ('Water', 'M'), ('Melon liqueur', 'L'), ('Banana liqueur', 'L')]",[]
+A midsummernight dream,Collins Glass,"[('Vodka', 'H'), ('Brandy', 'M')]","['Strawberry liqueur', 'Strawberries']"
+A. J.,Cocktail glass,"[('Apple liqueur', 'H'), ('Grapefruit juice', 'M')]",[]
+A.D.M. (After Dinner Mint),Irish coffee cup,"[('Mint liqueur', 'M'), ('Whiskey', 'H'), ('Vodka', 'M')]",['Hot chocolate']
+A1,Cocktail glass,"[('Gin', 'H'), ('Orange liqueur', 'M'), ('Lemon juice', 'L'), ('Syrup', 'L')]",[]
+ACID,Shot glass,"[('Rum', 'H'), ('Bourbon', 'H')]",[]
+AT&T,Highball Glass,"[('Vodka', 'L'), ('Gin', 'L'), ('Water', 'H')]",[]
+Abbey Cocktail,Cocktail glass,"[('Gin', 'H')]","['Orange bitters', 'Orange', 'Cherry']"
+Abbey Martini,Cocktail glass,"[('Gin', 'H'), ('Sweet vermouth', 'M'), ('Orange juice', 'M')]",['Bitters']
+Abilene,Highball glass,"[('Dark rum', 'M'), ('Peach nectar', 'M'), ('Orange juice', 'H')]",[]
+Absinthe #2,Jar,"[('Anise', 'L'), ('Vodka', 'H')]","['Sugar', 'Licorice root', 'Wormwood']"
+Absolut Evergreen,Collins Glass,"[('Vodka', 'H'), ('Banana liqueur', 'M')]",['Ice']
+Absolut Sex,Old-fashioned glass,"[('Vodka', 'M'), ('Melon liqueur', 'M'), ('Cranberry juice', 'M')]",['Sprite']
+Absolut Stress #2,Collins Glass,"[('Vodka', 'M'), ('Schnapps', 'L'), ('Coconut liqueur', 'L'), ('Cranberry juice', 'M'), ('Pineapple juice', 'M')]",[]
+Absolut Summertime,Collins glass,"[('Vodka', 'M'), ('Sweet and sour', 'L'), ('Sprite', 'L'), ('Water', 'H')]",['Lemon']
+Absolutely Cranberry Smash,Cocktail glass,"[('Vodka', 'M'), ('Cranberry juice', 'H'), ('Ginger ale', 'M')]",['Ice']
+Absolutely Fabulous,Champagne flute,"[('Vodka', 'L'), ('Cranberry juice', 'M'), ('Champagne', 'M')]",[]
+Absolutly Screwed Up,Collins glass,"[('Vodka', 'M'), ('Orange juice', 'M'), ('Triple sec', 'M'), ('Ginger ale', 'M')]",[]
+Acapulco,Old-fashioned glass,"[('Light rum', 'H')]","['Triple sec', 'Lime juice', 'Sugar', 'Egg white', 'Mint']"
+Ace,Martini Glass,"[('Gin', 'H'), ('Syrup', 'L'), ('Heavy cream', 'L'), ('Milk', 'L')]",['Egg white']
+Adam,Cocktail glass,"[('Dark rum', 'H'), ('Lemon juice', 'M')]",['Syrup']
+Adam & Eve,Cocktail glass,"[('Gin', 'M'), ('Cognac', 'M'), ('Creme de cassis', 'M'), ('Lemon juice', 'L')]",[]
+Adam Bomb,Margarita/Coupette glass,"[('Rum', 'L'), ('Vodka', 'L'), ('Tequila', 'L'), ('Triple sec', 'L'), ('Salt', 'H')]",[]
+Adam Sunrise,Collins Glass,"[('Lemonade', 'M'), ('Vodka', 'M'), ('Water', 'M')]",['Sugar']
+Addington,Cocktail glass,"[('Sweet vermouth', 'H'), ('Dry vermouth', 'M')]",['Water']
+Addison,Martini Glass,"[('Gin', 'H'), ('Vermouth', 'H')]",[]
+Addison Special,Old-fashioned glass,"[('Vodka', 'L'), ('Orange juice', 'M')]",['Syrup']
+Adios Amigos Cocktail,Martini Glass,"[('Rum', 'M'), ('Dry vermouth', 'L'), ('Cognac', 'L'), ('Gin', 'L'), ('Lime juice', 'L'), ('Sugar syrup', 'L'), ('Water', 'L')]",[]
+Adonis Cocktail,Cocktail glass,"[('Sweet vermouth', 'M'), ('Sherry', 'H')]",['Orange bitters']
+Affair,Highball glass,"[('Schnapps', 'M'), ('Orange juice', 'M'), ('Cranberry juice', 'M')]",[]
+Affinity,Cocktail glass,"[('Scotch', 'H'), ('Sweet vermouth', 'M'), ('Dry vermouth', 'M')]",['Orange bitters']
+After Dinner Cocktail,Cocktail glass,"[('Brandy', 'H'), ('Triple sec', 'H')]","['Lime', 'Lime']"
+After Supper Cocktail,Cocktail glass,"[('Triple sec', 'H'), ('Brandy', 'H')]",['Lemon juice']
+After sex,Highball glass,"[('Vodka', 'H'), ('Banana liqueur', 'M')]",[]
+Afterglow,Highball Glass,"[('Syrup', 'L'), ('Orange juice', 'H'), ('Pineapple juice', 'H')]",[]
+Afternoon,Collins Glass,"[('Coffee liqueur', 'L'), ('Coffee liqueur', 'L'), ('Coffee', 'H')]",['Frangelico']
+Alabama Slammer,Highball glass,"[('Whiskey', 'M'), ('Amaretto', 'M'), ('Gin', 'L')]",['Lemon juice']
+Alaska Cocktail,Cocktail glass,"[('Gin', 'H'), ('Liqueur', 'M')]","['Orange bitters', 'Lemon peel']"
+Alexander,Cocktail glass,"[('Gin', 'L'), ('Chocolate liqueur', 'L'), ('Light cream', 'H')]",[]
+Alfie Cocktail,Cocktail glass,"[('Vodka', 'H')]","['Triple sec', 'Pineapple juice']"
+Algonquin,Cocktail glass,"[('Whiskey', 'H'), ('Dry vermouth', 'M'), ('Pineapple juice', 'M')]",[]
+Alice Cocktail,Cocktail glass,"[('Syrup', 'L'), ('Orange juice', 'L'), ('Pineapple juice', 'M'), ('Cream', 'H')]",[]
+Alice in Wonderland,Collins Glass,"[('Amaretto', 'M'), ('Orange liqueur', 'M'), ('Whiskey', 'M')]",[]
+Allegheny,Cocktail glass,"[('Dry vermouth', 'H'), ('Bourbon', 'H')]","['Blackberry brandy', 'Lemon juice', 'Lemon peel']"
+Allies Cocktail,Cocktail glass,"[('Dry vermouth', 'H'), ('Gin', 'H')]",['Kummel']
+Almeria,Cocktail glass,"[('Dark rum', 'H'), ('Coffee liqueur', 'M')]",['Egg white']
+Almond Chocolate Coffee,Coffee mug,"[('Amaretto', 'L'), ('Chocolate liqueur', 'L'), ('Coffee', 'H')]",[]
+Almond Joy,Cocktail glass,"[('Amaretto', 'L'), ('Chocolate liqueur', 'L'), ('Light cream', 'H')]",[]
+Aloha Fruit punch,Collins Glass,"[('Water', 'L'), ('Guava juice', 'M'), ('Pineapple', 'L'), ('Sugar', 'L'), ('Pineapple juice', 'M')]","['Ginger', 'Lemon juice']"
+Amaretto And Cream,Cocktail glass,"[('Amaretto', 'H'), ('Light cream', 'H')]",[]
+Amaretto Liqueur,Collins Glass,"[('Sugar', 'M'), ('Water', 'L'), ('Vodka', 'L'), ('Water', 'L'), ('Brandy', 'M')]","['Apricot', 'Almond flavoring', 'Food coloring', 'Food coloring', 'Food coloring', 'Vodka']"
+Amaretto Mist,Old-fashioned glass,"[('Amaretto', 'H')]",['Lime']
+Amaretto Rose,Collins glass,"[('Amaretto', 'H'), ('Lime juice', 'M')]",[]
+Amaretto Shake,Collins Glass,"[('Brandy', 'H'), ('Amaretto', 'H')]",['Chocolate ice-cream']
+Amaretto Sour,Collins Glass,"[('Amaretto', 'M'), ('Sour mix', 'H')]",[]
+Amaretto Stinger,Cocktail glass,"[('Amaretto', 'H'), ('Mint liqueur', 'M')]",[]
+Amaretto Stone Sour,Collins Glass,"[('Amaretto', 'M'), ('Sour mix', 'M'), ('Orange juice', 'M')]",[]
+Amaretto Stone Sour #3,Highball glass,"[('Sour mix', 'M'), ('Amaretto', 'M'), ('Tequila', 'M')]",['Orange juice']
+Amaretto Sunrise,Collins Glass,"[('Amaretto', 'L'), ('Orange juice', 'H'), ('Syrup', 'L')]",[]
+Amaretto Sunset,Collins Glass,"[('Amaretto', 'M'), ('Cider', 'M'), ('Ice', 'M')]",['Triple sec']
+Amaretto Tea,Pousse cafe glass,"[('Tea', 'H'), ('Amaretto', 'M')]",['Whipped cream']
+Americano,Collins glass,"[('Campari', 'H'), ('Sweet vermouth', 'H')]","['Lemon peel', 'Orange peel']"
+Angel Face,Cocktail glass,"[('Brandy', 'M'), ('Apple brandy', 'M'), ('Gin', 'H')]",[]
+Angelica Liqueur,Collins Glass,"[('Vodka', 'H'), ('Sugar', 'M'), ('Water', 'L')]","['Angelica root', 'Almond flavoring', 'Allspice', 'Cinnamon', 'Anise', 'Coriander', 'Marjoram leaves', 'Food coloring', 'Food coloring']"
+Apello,Collins Glass,"[('Orange juice', 'H'), ('Grapefruit juice', 'M'), ('Apple juice', 'L')]",['Maraschino cherry']
+Apple Berry Smoothie,Highball Glass,"[('Berries', 'H')]",['Apple']
+Apple Cider Punch #1,Collins Glass,"[('Apple cider', 'H'), ('Brown sugar', 'L'), ('Lemonade', 'L'), ('Orange juice', 'L')]","['Cloves', 'Allspice', 'Nutmeg', 'Cinnamon']"
+Apple Grande,Punch Bowl,"[('Tequila', 'L'), ('Apple cider', 'H')]",[]
+Apple Karate,Highball Glass,"[('Apple juice', 'H')]",['Carrot']
+Apple Pie with A Crust,Collins Glass,"[('Apple juice', 'H'), ('Rum', 'M')]",['Cinnamon']
+Apple Slammer,Shot glass,"[('Sprite', 'H'), ('Schnapps', 'H')]",[]
+Applecar,Cocktail glass,"[('Apple liqueur', 'M'), ('Triple sec', 'M'), ('Lemon juice', 'M')]",[]
+Applejack,Cocktail glass,"[('Whiskey', 'M'), ('Melon liqueur', 'L'), ('Sour mix', 'H')]",[]
+Apricot Lady,Old-fashioned glass,"[('Light rum', 'H'), ('Brandy', 'M'), ('Lemon juice', 'L')]","['Triple sec', 'Egg white', 'Orange']"
+Apricot punch,Punch bowl,"[('Brandy', 'M'), ('Champagne', 'H'), ('Vodka', 'L')]","['Sprite', 'Orange juice']"
+Archbishop,Old-fashioned glass,"[('Gin', 'H'), ('Wine', 'M')]","['Liqueur', 'Lime']"
+Arctic Fish,Beer pilsner,"[('Vodka', 'M'), ('Grape soda', 'M'), ('Orange juice', 'M')]","['Ice', 'Candy']"
+Arctic Mouthwash,Cocktail glass,"[('Maui', 'H'), ('Mountain dew', 'H')]",['Ice']
+Arizona Antifreeze,Shot glass,"[('Vodka', 'M'), ('Melon liqueur', 'M'), ('Sweet and sour', 'M')]",[]
+Arizona Stingers,Hurricane glass,"[('Vodka', 'L'), ('Iced tea', 'H')]",[]
+Arizona Twister,Hurricane glass,"[('Vodka', 'M'), ('Rum', 'M'), ('Tequila', 'M')]","['Orange juice', 'Pineapple juice', 'Coconut milk', 'Syrup', 'Ice', 'Pineapple']"
+Army special,Cocktail glass,"[('Vodka', 'M'), ('Gin', 'M'), ('Lime juice', 'H')]",['Ice']
+Arthur Tompkins,Whiskey sour glass,"[('Gin', 'H'), ('Orange liqueur', 'L')]","['Lemon juice', 'Lemon peel']"
+Artillery,Cocktail glass,"[('Gin', 'H')]","['Sweet vermouth', 'Bitters']"
+Artillery Punch,Punch bowl,"[('Tea', 'M'), ('Whiskey', 'M'), ('Red wine', 'L'), ('Rum', 'L'), ('Brandy', 'L'), ('Liqueur', 'L'), ('Orange juice', 'L'), ('Lemon juice', 'L')]",[]
+Atlantic Sun,Collins Glass,"[('Vodka', 'L'), ('Whiskey', 'L'), ('Passion fruit syrup', 'L'), ('Sweet and sour', 'H')]",['Club soda']
+Atomic Lokade,Collins Glass,"[('Lemonade', 'H'), ('Vodka', 'L'), ('Orange liqueur', 'L'), ('Triple sec', 'L')]",[]
+Auburn Headbanger,Shot glass,"[('Jägermeister', 'H'), ('Cinnamon liqueur', 'H')]",[]
+Autodafé,Highball glass,"[('Vodka', 'H')]",['Lime juice']
+Avalanche,Highball glass,"[('Whiskey', 'H'), ('Coffee liqueur', 'H')]",['Cream']
+Avalon,Highball glass,"[('Vodka', 'M'), ('Banana liqueur', 'L'), ('Apple juice', 'H'), ('Lemon juice', 'L')]",[]
+Aviation,Cocktail glass,"[('Gin', 'H'), ('Lemon juice', 'L'), ('Maraschino liqueur', 'L')]",[]
+Aztec Punch,Punch bowl,"[('Lemonade', 'H'), ('Vodka', 'M'), ('Rum', 'M')]",['Ginger ale']
+B-53,Collins Glass,"[('Coffee liqueur', 'M'), ('Anis', 'M'), ('Orange liqueur', 'M')]",[]
+Baby Eskimo,Collins Glass,"[('Coffee liqueur', 'L'), ('Milk', 'H')]",['Vanilla ice-cream']
+Baby Guinness,Shot glass,"[('Coffee liqueur', 'H'), ('Coffee liqueur', 'L')]",[]
+Bacardi Cocktail,Cocktail glass,"[('Light rum', 'H'), ('Lime juice', 'M')]","['Syrup', 'Syrup']"
+Bailey's Dream Shake,Collins glass,"[('Coffee liqueur', 'H')]",['Vanilla ice-cream']
+Balmoral,Cocktail glass,"[('Scotch', 'H'), ('Sweet vermouth', 'L'), ('Dry vermouth', 'L')]",['Bitters']
+Banana Daiquiri,Champagne flute,"[('Light rum', 'H'), ('Lime juice', 'H')]","['Triple sec', 'Banana', 'Sugar', 'Cherry']"
+Banana Milk Shake,White wine glass,"[('Milk', 'H'), ('Orange juice', 'M')]","['Syrup', 'Banana']"
+Banana Strawberry Shake,Highball Glass,"[('Yoghurt', 'H'), ('Milk', 'H')]","['Strawberries', 'Banana', 'Honey']"
+Banana Strawberry Shake Daiquiri-type,Cocktail Glass,"[('Apple juice', 'H')]","['Strawberries', 'Banana']"
+Barracuda,Margarita glass,"[('Rum', 'M'), ('Galliano', 'L'), ('Pineapple juice', 'H')]","['Lime juice', 'Prosecco']"
+Belgian Blue,Highball glass,"[('Vodka', 'H'), ('Coconut liqueur', 'M'), ('Orange liqueur', 'M')]",['Sprite']
+Bellini,Champagne Flute,"[('Champagne', 'H'), ('Schnapps', 'L')]",[]
+Bellini Martini,Cocktail glass,"[('Vodka', 'H'), ('Peach nectar', 'M'), ('Schnapps', 'M')]","['Ice', 'Lemon peel']"
+Bermuda Highball,Highball glass,"[('Brandy', 'M'), ('Gin', 'M'), ('Dry vermouth', 'M')]",[]
+Berry Deadly,Collins Glass,"[('Everclear', 'H')]","['Wine', 'Orange juice', 'Kool-aid']"
+Between The Sheets,Cocktail glass,"[('Brandy', 'M'), ('Light rum', 'M'), ('Triple sec', 'M'), ('Lemon juice', 'M')]",[]
+Bible Belt,Highball glass,"[('Whiskey', 'H'), ('Triple sec', 'L'), ('Sour mix', 'H')]",['Lime']
+Big Red,Shot glass,"[('Irish cream', 'H'), ('Cinnamon liqueur', 'H')]",[]
+Black & Tan,Pint glass,"[('Ale', 'H'), ('Guinness stout', 'H')]",[]
+Black Russian,Old-fashioned glass,"[('Coffee liqueur', 'M'), ('Vodka', 'H')]",[]
+Blackthorn,Cocktail glass,"[('Sweet vermouth', 'M'), ('Gin', 'H')]",['Lemon peel']
+Bleeding Surgeon,Collins glass,"[('Dark rum', 'L')], ('Mountain dew', 'H'), ('Cranberry juice', 'H')",['Orange']
+Blind Russian,Collins glass,"[('Coffee liqueur', 'M'), ('Chocolate liqueur', 'M'), ('Coffee liqueur', 'M'), ('Schnapps', 'L')]",['Milk']
+Bloody Maria,Old-fashioned glass,"[('Tequila', 'M'), ('Tomato juice', 'H')]","['Lemon juice', 'Tabasco sauce', 'Celery salt', 'Lemon']"
+Bloody Mary,Old-fashioned glass,"[('Vodka', 'M'), ('Tomato juice', 'H')]","['Lemon juice', 'Worcestershire sauce', 'Tabasco sauce', 'Lime']"
+Blue Lagoon,Highball glass,"[('Vodka', 'H'), ('Orange liqueur', 'H')]",[]
+Blue Margarita,Cocktail glass,"[('Tequila', 'H'), ('Orange liqueur', 'M'), ('Lime juice', 'M')]",['Salt']
+Blue Mountain,Old-fashioned glass,"[('Rum', 'H'), ('Coffee liqueur', 'L'), ('Vodka', 'L'), ('Orange juice', 'M')]",['Lemon juice']
+Bluebird,Cocktail glass,"[('Gin', 'H'), ('Triple sec', 'L'), ('Orange liqueur', 'L')]","['Bitters', 'Maraschino cherry', 'Lemon peel']"
+Bob Marley,Shot glass,"[('Melon liqueur', 'M'), ('Jägermeister', 'M'), ('Cinnamon liqueur', 'M')]",[]
+Bobby Burns Cocktail,Cocktail glass,"[('Sweet vermouth', 'H'), ('Scotch', 'H')]","['Liqueur', 'Lemon peel']"
+Boomerang,Cocktail glass,"[('Gin', 'H'), ('Dry vermouth', 'L')]","['Bitters', 'Cherry liqueur', 'Maraschino cherry']"
+Boozy Snickers Milkshake,Mason jar,"[('Vanilla ice-cream', 'H'), ('Milk', 'M'), ('Chocolate liqueur', 'L')]","['Whipped cream', 'Caramel', 'Chocolate liqueur', 'Mini-snickers bars']"
+Bora Bora,Highball glass,"[('Pineapple juice', 'H'), ('Passion fruit juice', 'M'), ('Lemon juice', 'L'), ('Syrup', 'L')]",[]
+Boston Sidecar,Cocktail glass,"[('Light rum', 'M'), ('Brandy', 'M'), ('Triple sec', 'M')]",['Lime']
+Boston Sour,Whiskey sour glass,"[('Whiskey', 'H')]","['Lemon', 'Powdered sugar', 'Egg white', 'Lemon', 'Cherry']"
+Bourbon Sling,Highball glass,"[('Lemon juice', 'M'), ('Bourbon', 'H')]","['Sugar', 'Water', 'Lemon peel']"
+Bourbon Sour,Whiskey sour glass,"[('Bourbon', 'H'), ('Lemon juice', 'M')]","['Sugar', 'Orange', 'Maraschino cherry']"
+Boxcar,Whiskey sour glass,"[('Gin', 'H'), ('Triple sec', 'M')]","['Lemon juice', 'Syrup', 'Egg white']"
+Brain Fart,Punch bowl,"[('Everclear', 'M'), ('Vodka', 'M'), ('Rum', 'M'), , ('Mountain Dew', 'H')]",['Lemon juice']
+Brainteaser,Shot Glass,"[('Anis', 'H'), ('Chocolate liqueur', 'H'), ('Advocaat', 'L')]",[]
+Bramble,Old-Fashioned glass,"[('Gin', 'H'), ('Lemon juice', 'L'), ('Syrup', 'L'), ('Creme de mure', 'L')]",[]
+Brandon and Will's Coke Float,Beer mug,"[('Cola', 'H'), ('Bourbon', 'L')]",['Vanilla ice-cream']
+Brandy Alexander,Cocktail glass,"[('Brandy', 'M'), ('Chocolate liqueur', 'M'), ('Light cream', 'M')]",[]
+Brandy Cobbler,Old-fashioned glass,"[('Club soda', 'H'), ('Brandy', 'M')]","['Sugar', 'Lemon', 'Maraschino cherry', 'Orange']"
+Brandy Flip,Whiskey sour glass,"[('Brandy', 'H'), ('Light cream', 'L')]","['Egg', 'Sugar', 'Nutmeg']"
+Brandy Sour,Whiskey sour glass,"[('Brandy', 'H')]","['Lemon', 'Powdered sugar', 'Lemon', 'Cherry']"
+Brave Bull Shooter,Shot glass,"[('Tequila', 'H'), ('Tabasco sauce', 'H')]",[]
+Bruised Heart,Shot glass,"[('Vodka', 'M'), ('Chambord raspberry liqueur', 'M'), ('Peach liqueur', 'M'), ('Cranberry juice', 'M')]",[]
+Buccaneer,Beer pilsner,"[('Rum', 'L'), ('Champagne', 'H')]",[]
+Bumble Bee #1,Shot glass,"[('Coffee liqueur', 'M'), ('Coffee liqueur', 'M'), ('Anis', 'M')]",[]
+Butter Baby,Beer mug,"[('Schnapps', 'M'), ('Vodka', 'H')]","['Vanilla ice-cream', 'Milk']"
+Caipirinha,Old-fashioned glass,"[('Rum', 'H')]","['Sugar', 'Lime']"
+Caipirissima,Collins Glass,"[('Light rum', 'H')]","['Lime', 'Sugar', 'Ice']"
+California Lemonade,Collins glass,"[('Whiskey', 'H')]","['Lemon', 'Lime', 'Powdered sugar', 'Syrup']"
+California Root Beer,Highball glass,"[('Coffee liqueur', 'H'), ('Galliano', 'H')]",['Water']
+Campari Beer,Beer mug,"[('Campari', 'L'), ('Beer', 'H')]",[]
+Caribbean Boilermaker,Beer pilsner,"[('Light rum', 'L'), ('Corona', 'H')]",[]
+Caribbean Orange Liqueur,Collins Glass,"[('Vodka', 'H'), ('Sugar', 'M')]",['Orange']
+Casino,Cocktail glass,"[('Gin', 'H')]","['Cherry liqueur', 'Lemon juice', 'Orange bitters', 'Cherry']"
+Casino Royale,Whiskey sour glass,"[('Gin', 'H'), ('Lemon juice', 'L')]","['Cherry liqueur', 'Orange bitters', 'Egg yolk']"
+Castillian Hot Chocolate,Coffee mug,"[('Cocoa powder', 'L'), ('Sugar', 'L'), ('Water', 'L'), ('Milk', 'H')]",['Cornstarch']
+Cherry Electric Lemonade,Pint glass,"[('Gin', 'L'), ('Tequila', 'L'), ('Vodka', 'L'), ('Light rum', 'L'), ('Orange liqueur', 'L'), ('Cherry grenadine', 'L'), ('Sweet and sour', 'L'), ('Club soda', 'M')]",[]
+Cherry Rum,Cocktail glass,"[('Light rum', 'H')]","['Cherry brandy', 'Light cream']"
+Chicago Fizz,Highball glass,"[('Light rum', 'H'), ('Port', 'H')]","['Lemon', 'Powdered sugar', 'Egg white']"
+Chocolate Beverage,Coffee mug,"[('Milk', 'H'), ('Chocolate', 'L')]","['Cinnamon', 'Egg']"
+Chocolate Black Russian,Champagne flute,"[('Coffee liqueur', 'L'), ('Vodka', 'L'), ('Chocolate ice-cream', 'H')]",[]
+Chocolate Milk,Shot Glass,"[('Chocolate liqueur', 'H'), ('Milk', 'H')]",['Amaretto']
+Chocolate Monkey,Parfait glass,"[('Banana liqueur', 'L'), ('Chocolate liqueur', 'M'), ('Chocolate syrup', 'L'), ('Chocolate milk', 'H')]","['Chocolate ice-cream', 'Whipped cream', 'Cherry', 'Banana']"
+Citrus Coke,Highball Glass,"[('Rum', 'M'), ('Cola', 'H')]",[]
+City Slicker,Cocktail glass,"[('Brandy', 'H'), ('Triple sec', 'L')]",['Lemon juice']
+Classic Old-Fashioned,Old-fashioned glass,"[('Bourbon', 'H')]","['Bitters', 'Water', 'Sugar', 'Orange', 'Maraschino cherry']"
+Clove Cocktail,Cocktail glass,"[('Sweet vermouth', 'H'), ('Gin', 'M'), ('Wine', 'M')]",[]
+Clover Club,Cocktail glass,"[('Gin', 'H')]","['Syrup', 'Lemon', 'Egg white']"
+Coffee Liqueur,Collins Glass,"[('Sugar', 'M'), ('Vodka', 'H'), ('Water', 'M')]","['Coffee', 'Vanilla extract']"
+Coffee-Vodka,Collins Glass,"[('Water', 'M'), ('Sugar', 'M'), ('Coffee', 'L'), ('Vodka', 'M')]",['Vanilla']
+Coke and Drops,Cocktail glass,"[('Cola', 'H')]",['Lemon juice']
+Cosmopolitan,Cocktail glass,"[('Vodka', 'M'), ('Lime juice', 'L'), ('Orange liqueur', 'L'), ('Cranberry juice', 'H')]",[]
+Cosmopolitan Martini,Cocktail Glass,"[('Orange liqueur', 'M'), ('Vodka', 'H')]","['Lime', 'Cranberry juice']"
+Cranberry Punch,Punch Bowl,"[('Cranberry juice', 'M'), ('Sugar', 'L'), ('Pineapple juice', 'M'), ('Ginger ale', 'H')]",['Almond flavoring']
+Cream Soda,Highball glass,"[('Spiced rum', 'H')]",[]
+Creme de Menthe,Collins Glass,"[('Sugar', 'H'), ('Water', 'M'), ('Vodka', 'L'), ('Mint liqueur', 'L')]",['Food coloring']
+Cuba Libra,Highball glass,"[('Dark rum', 'H')]","['Lime', 'Cola']"
+Cuba Libre,Highball glass,"[('Light rum', 'H')]",['Lime']
+Daiquiri,Cocktail glass,"[('Light rum', 'H')]","['Lime', 'Powdered sugar']"
+Damned if you do,Shot glass,"[('Whiskey', 'H'), ('Cinnamon liqueur', 'M')]",[]
+Danbooka,Coffee Mug,"[('Coffee', 'H'), ('Everclear', 'M')]",[]
+Dark Caipirinha,Highball glass,"[('Rum', 'H')]","['Sugar', 'Lime']"
+Dark and Stormy,Highball glass,"[('Dark rum', 'M'), ('Beer', 'H')]",[]
+Darkwood Sling,Cocktail glass,"[('Cherry liqueur', 'M'), ('Water', 'M'), ('Orange juice', 'M')]",['Ice']
+Derby,Cocktail glass,"[('Gin', 'H')]","['Peach bitters', 'Mint']"
+Diesel,Pint glass,"[('Beer', 'H'), ('Cider', 'H')]",['Blackcurrant juice']
+Dirty Martini,Cocktail glass,"[('Vodka', 'H')]","['Dry vermouth', 'Olive brine', 'Lemon', 'Olive']"
+Downshift,Hurricane glass,"[('Fruit punch', 'M'), ('Sprite', 'L'), ('Tequila', 'H')]",['Rum']
+Dragonfly,Highball glass,"[('Gin', 'M'), ('Ginger ale', 'H')]",['Lime']
+Drinking Chocolate,Coffee mug,"[('Heavy cream', 'L'), ('Milk', 'H'), ('Chocolate', 'L')]","['Cinnamon', 'Vanilla', 'Whipped cream']"
+Dry Rob Roy,Cocktail glass,"[('Scotch', 'H')]","['Dry vermouth', 'Lemon peel']"
+Dubonnet Cocktail,Cocktail glass,"[('Port', 'H'), ('Gin', 'M')]","['Bitters', 'Lemon peel']"
+Duchamp's Punch,Old-fashioned glass,"[('Brandy', 'H'), ('Lime juice', 'M'), ('Pineapple syrup', 'M'), ('Liqueur', 'L')]","['Bitters', 'Pepper', 'Lavender']"
+Egg Cream,Coffee mug,"[('Milk', 'H'), ('Water', 'H')]",['Chocolate syrup']
+Egg Nog #4,Punch bowl,"[('Sugar', 'L'), ('Milk', 'H'), ('Light rum', 'L'), ('Bourbon', 'L'), ('Whipped cream', 'M'), ('Sugar', 'L')]","['Egg yolk', 'Vanilla extract', 'Salt', 'Egg white', 'Nutmeg']"
+Egg Nog - Healthy,Collins Glass,"[('Egg', 'L'), ('Condensed milk', 'H'), ('Milk', 'M')]","['Sugar', 'Vanilla extract', 'Rum']"
+Egg-Nog - Classic Cooked,Pitcher,"[('Sugar', 'L'), ('Milk', 'H')]","['Egg', 'Salt', 'Vanilla extract']"
+English Highball,Highball glass,"[('Brandy', 'M'), ('Gin', 'M'), ('Sweet vermouth', 'M')]",[]
+English Rose Cocktail,Cocktail glass,"[('Brandy', 'M'), ('Gin', 'H'), ('Dry vermouth', 'M')]","['Syrup', 'Lemon juice', 'Cherry']"
+Espresso Martini,Cocktail glass,"[('Vodka', 'H'), ('Coffee liqueur', 'L')]",['Syrup']
+Fahrenheit 5000,Shot glass,"[('Firewater', 'H'), ('Vodka', 'H')]",['Tabasco sauce']
+Flaming Dr. Pepper,Collins Glass,"[('Amaretto', 'L'), ('Vodka', 'L'), ('Rum', 'L'), ('Dr. pepper', 'L'), ('Ale', 'L')]",[]
+Flaming Lamborghini,Cocktail glass,"[('Coffee liqueur', 'M'), ('Anis', 'M'), ('Orange liqueur', 'M'), ('Coffee liqueur', 'M')]",[]
+Flying Dutchman,Old-fashioned glass,"[('Gin', 'H'), ('Triple sec', 'L')]",[]
+Flying Scotchman,Cocktail glass,"[('Scotch', 'H'), ('Sweet vermouth', 'H')]","['Bitters', 'Syrup']"
+Foxy Lady,Cocktail glass,"[('Amaretto', 'L'), ('Chocolate liqueur', 'L'), ('Light cream', 'H')]",[]
+Frappé,Highball Glass,"[('Coffee', 'H'), ('Milk', 'H')]",['Sugar']
+Freddy Kruger,Shot glass,"[('Jägermeister', 'M'), ('Anis', 'M'), ('Vodka', 'M')]",[]
+"French ""75""",Collins glass,"[('Gin', 'M'), ('Lemon juice', 'M'), ('Champagne', 'H')]","['Sugar', 'Orange', 'Maraschino cherry']"
+French 75,Collins glass,"[('Gin', 'M'), ('Lemon juice', 'M'), ('Champagne', 'H')]","['Sugar', 'Orange', 'Maraschino cherry']"
+French Connection,Old-fashioned glass,"[('Cognac', 'H'), ('Amaretto', 'M')]",[]
+French Martini,Cocktail glass,"[('Vodka', 'H'), ('Raspberry liqueur', 'L'), ('Pineapple juice', 'L')]",[]
+Frisco Sour,Whiskey sour glass,"[('Whiskey', 'H'), ('Liqueur', 'L')]","['Lemon', 'Lime', 'Lemon', 'Lime']"
+Frozen Daiquiri,Champagne flute,"[('Light rum', 'L'), ('Lime juice', 'L'), ('Ice', 'H')]","['Triple sec', 'Sugar', 'Cherry']"
+Frozen Mint Daiquiri,Old-fashioned glass,"[('Light rum', 'H')]","['Lime juice', 'Mint', 'Sugar']"
+Frozen Pineapple Daiquiri,Champagne flute,"[('Light rum', 'H')]","['Pineapple', 'Lime juice', 'Sugar']"
+Fruit Cooler,Highball Glass,"[('Apple juice', 'H'), ('Strawberries', 'H')]","['Sugar', 'Lemon', 'Apple', 'Water']"
+Fruit Flip-Flop,Highball Glass,"[('Yoghurt', 'H'), ('Fruit juice', 'H')]",[]
+Fruit Shake,Highball Glass,"[('Yoghurt', 'H'), ('Orange juice', 'M')]","['Banana', 'Fruit', 'Ice']"
+GG,Collins Glass,"[('Galliano', 'H')]",[]
+Gagliardo,Cocktail glass,"[('Vodka', 'H'), ('Lemon juice', 'M'), ('Galliano', 'L'), ('Sirup of roses', 'L')]",[]
+Gentleman's Club,Old-fashioned glass,"[('Gin', 'M'), ('Brandy', 'M'), ('Sweet vermouth', 'M'), ('Club soda', 'M')]",[]
+Gideon's Green Dinosaur,Collins glass,"[('Dark rum', 'L'), ('Vodka', 'L'), ('Triple sec', 'L'), ('Tequila', 'L'), ('Melon liqueur', 'L'), ('Mountain dew', 'H')]",[]
+Gin And Tonic,Highball glass,"[('Gin', 'M'), ('Water', 'H')]",['Lime']
+Gin Cooler,Collins glass,"[('Gin', 'H')]",[]
+Gin Daisy,Old-fashioned glass,"[('Gin', 'H'), ('Lemon juice', 'M')]","['Sugar', 'Syrup', 'Maraschino cherry', 'Orange']"
+Gin Fizz,Highball glass,"[('Gin', 'H')]","['Lemon', 'Powdered sugar']"
+Gin Rickey,Highball glass,"[('Gin', 'H')]","['Syrup', 'Lemon', 'Water', 'Lime']"
+Gin Sling,Old-fashioned glass,"[('Gin', 'H')]","['Lemon', 'Powdered sugar', 'Water', 'Orange peel']"
+Gin Smash,Old-fashioned glass,"[('Gin', 'H'), ('Water', 'M')]","['Sugar', 'Mint', 'Orange', 'Cherry']"
+Gin Sour,Whiskey sour glass,"[('Gin', 'H'), ('Lemon juice', 'M')]","['Sugar', 'Orange', 'Maraschino cherry']"
+Gin Squirt,Highball glass,"[('Gin', 'H')]","['Syrup', 'Powdered sugar', 'Pineapple', 'Strawberries']"
+Gin Swizzle,Highball glass,"[('Lime juice', 'M'), ('Gin', 'M'), ('Club soda', 'H')]","['Sugar', 'Bitters']"
+Gin Toddy,Old-fashioned glass,"[('Gin', 'H')]","['Water', 'Powdered sugar', 'Lemon peel']"
+Girl From Ipanema,Wine Glass,"[('Rum', 'H'), ('Lemon juice', 'M'), ('Honey', 'L')]",['Champagne']
+Gluehwein,Irish coffee cup,"[('Water', 'H')]","['Red wine', 'Sugar', 'Cinnamon', 'Cloves', 'Lemon peel']"
+Godchild,Champagne flute,"[('Vodka', 'M'), ('Amaretto', 'M'), ('Heavy cream', 'M')]",[]
+Godfather,Old-fashioned glass,"[('Scotch', 'H'), ('Amaretto', 'M')]",[]
+Godmother,Old-fashioned glass,"[('Vodka', 'H'), ('Amaretto', 'M')]",[]
+Golden dream,Cocktail glass,"[('Galliano', 'M'), ('Orange liqueur', 'M'), ('Orange juice', 'M'), ('Cream', 'L')]",[]
+Grand Blue,Old-fashioned glass,"[('Rum', 'L'), ('Schnapps', 'L'), ('Orange liqueur', 'L'), ('Sweet and sour', 'M')]",[]
+Grape lemon pineapple Smoothie,Highball glass,"[('Grapes', 'H')]","['Lemon', 'Pineapple']"
+Grass Skirt,Old-fashioned glass,"[('Gin', 'H'), ('Triple sec', 'M'), ('Pineapple juice', 'M')]","['Syrup', 'Pineapple']"
+Grasshopper,Cocktail glass,"[('Mint liqueur', 'M'), ('Chocolate liqueur', 'M'), ('Light cream', 'M')]",[]
+Green Goblin,Pint glass,"[('Cider', 'H'), ('Beer', 'H'), ('Orange liqueur', 'L')]",[]
+Grim Reaper,Old-fashioned glass,"[('Coffee liqueur', 'H'), ('Rum', 'H')]",['Syrup']
+Grizzly Bear,Collins Glass,"[('Amaretto', 'L'), ('Jägermeister', 'L'), ('Coffee liqueur', 'L'), ('Milk', 'H')]",[]
+H.D.,Beer mug,"[('Whiskey', 'M'), ('Coffee liqueur', 'H')]",[]
+Happy Skipper,Highball glass,"[('Spiced rum', 'H')]",[]
+Harvey Wallbanger,Collins glass,"[('Vodka', 'L'), ('Galliano', 'L'), ('Orange juice', 'H')]",[]
+Havana Cocktail,Cocktail glass,"[('Light rum', 'H'), ('Pineapple juice', 'H')]",['Lemon juice']
+Hawaiian Cocktail,Cocktail glass,"[('Gin', 'H'), ('Triple sec', 'L')]",['Pineapple juice']
+Hemingway Special,Cocktail glass,"[('Rum', 'H'), ('Grapefruit juice', 'M'), ('Maraschino liqueur', 'L'), ('Lime juice', 'L')]",[]
+Herbal flame,Mason jar,"[('Cinnamon liqueur', 'H')]",['Tea']
+Highland Fling Cocktail,Cocktail glass,"[('Scotch', 'H'), ('Sweet vermouth', 'M')]","['Orange bitters', 'Olive']"
+Homemade Kahlua,Collins Glass,"[('Sugar', 'M'), ('Corn syrup', 'L'), ('Coffee', 'L'), ('Vanilla extract', 'L'), ('Water', 'M'), ('Vodka', 'M')]",[]
+Horse's Neck,Highball glass,"[('Brandy', 'M'), ('Ginger ale', 'H')]","['Lemon peel', 'Bitters']"
+Hot Chocolate to Die for,Coffee mug,"[('Chocolate', 'H'), ('Iced tea', 'H')]","['Butter', 'Vanilla extract', 'Marshmallows']"
+Hot Creamy Bush,Irish coffee cup,"[('Whiskey', 'L'), ('Coffee liqueur', 'L'), ('Coffee', 'H')]",[]
+Ice Pick #1,Collins Glass,"[('Vodka', 'L'), ('Iced tea', 'H')]",['Lemon juice']
+Iced Coffee,Coffee mug,"[('Coffee', 'L'), ('Sugar', 'L'), ('Water', 'L'), ('Milk', 'H')]",[]
+Imperial Cocktail,Cocktail glass,"[('Lime juice', 'M'), ('Gin', 'L'), ('Aperol', 'M')]",[]
+Imperial Fizz,Highball glass,"[('Light rum', 'M'), ('Whiskey', 'H')]","['Lemon', 'Powdered sugar']"
+Ipamena,Wine Glass,"[('Passion fruit juice', 'H')]","['Lime', 'Brown sugar', 'Ginger ale', 'Ice']"
+Irish Coffee,Irish coffee cup,"[('Whiskey', 'L'), ('Coffee', 'H')]","['Sugar', 'Whipped cream']"
+Irish Cream,Irish coffee cup,"[('Scotch', 'M'), ('Iced tea', 'M'), ('Condensed milk', 'M')]","['Coconut syrup', 'Chocolate syrup']"
+Irish Curdling Cow,Highball glass,"[('Coffee liqueur', 'L'), ('Bourbon', 'L'), ('Vodka', 'L'), ('Orange juice', 'H')]",[]
+Irish Russian,Highball glass,"[('Vodka', 'H'), ('Coffee liqueur', 'H')]","['Cola', 'Guinness stout']"
+Irish Spring,Collins glass,"[('Whiskey', 'M'), ('Peach brandy', 'L'), ('Orange juice', 'M'), ('Sweet and sour', 'M')]","['Orange', 'Cherry']"
+Jack Rose Cocktail,Cocktail glass,"[('Apple brandy', 'H')]","['Syrup', 'Lime']"
+Jack's Vanilla Coke,Old-fashioned glass,"[('Whiskey', 'L'), ('Cola', 'H')]","['Ice', 'Vanilla extract']"
+Jackhammer,Collins Glass,"[('Whiskey', 'H'), ('Amaretto', 'H')]",[]
+Jam Donut,Shot glass,"[('Baileys', 'H'), ('Chambord raspberry liqueur', 'M')]","['Syrup', 'Sugar']"
+Jamaica Kiss,Hurricane glass,"[('Coffee liqueur', 'H'), ('Light rum', 'H')]",['Ice']
+Japanese Fizz,Highball glass,"[('Whiskey', 'H')]","['Lemon', 'Powdered sugar', 'Port', 'Egg white']"
+Jello shots,Shot glass,"[('Vodka', 'M'), ('Water', 'H')]",['Jello']
+Jelly Bean,Cordial glass,"[('Blackberry brandy', 'H'), ('Anis', 'H')]",[]
+Jewel Of The Nile,Cocktail glass,"[('Gin', 'H'), ('Liqueur', 'L'), ('Liqueur', 'L')]",[]
+Jitterbug,Cocktail Glass,"[('Lime juice', 'H')]","['Gin', 'Vodka', 'Syrup', 'Sugar', 'Syrup', 'Water']"
+John Collins,Collins glass,"[('Bourbon', 'M'), ('Lemon juice', 'L'), ('Club soda', 'H')]","['Sugar', 'Maraschino cherry', 'Orange']"
+Just a Moonmint,Highball Glass,"[('Milk', 'H')]",[]
+Kamikaze,Cocktail glass,"[('Vodka', 'M'), ('Triple sec', 'M'), ('Lime juice', 'M')]",[]
+Karsk,Highball glass,"[('Coffee', 'M'), ('Vodka', 'H')]",[]
+Kentucky B And B,Brandy snifter,"[('Bourbon', 'H'), ('Liqueur', 'L')]",[]
+Kentucky Colonel,Cocktail glass,"[('Bourbon', 'H'), ('Liqueur', 'L')]",['Lemon peel']
+Kill the cold Smoothie,Highball glass,"[('Water', 'H')]","['Ginger', 'Lemon']"
+Kioki Coffee,Coffee mug,"[('Coffee liqueur', 'H'), ('Brandy', 'M')]",[]
+Kir,Wine Glass,"[('Creme de cassis', 'L'), ('Champagne', 'H')]",[]
+Kir Royale,Champagne Flute,"[('Creme de cassis', 'L'), ('Champagne', 'H')]",[]
+Kiss me Quick,Highball glass,"[('Vodka', 'L'), ('Apple liqueur', 'L'), ('Schweppe', 'M'), ('Apple juice', 'M')]",['Ice']
+Kiwi Lemon,Highball glass,"[('Kiwi liqueur', 'M'), ('Bitter lemon', 'H')]",['Ice']
+Kool First Aid,Shot glass,"[('Rum', 'H'), ('Kool-aid', 'H')]",[]
+Kool-Aid Shot,Old-fashioned glass,"[('Vodka', 'M'), ('Amaretto', 'M'), ('Gin', 'M'), ('Triple sec', 'M')]",[]
+Kool-Aid Slammer,Shot glass,"[('Kool-aid', 'H'), ('Vodka', 'H')]",[]
+Kurant Tea,Champagne flute,"[('Vodka', 'H')]","['Tea', 'Sugar']"
+Lady Love Fizz,Cocktail glass,"[('Gin', 'H')]","['Light cream', 'Powdered sugar', 'Lemon', 'Egg white']"
+Lassi - A South Indian Drink,Highball Glass,"[('Yoghurt', 'M'), ('Water', 'H')]","['Cumin seed', 'Salt', 'Mint']"
+Lassi - Mango,Highball glass,"[('Yoghurt', 'H'), ('Sugar', 'L'), ('Water', 'M')]",['Mango']
+Lassi - Sweet,Highball glass,"[('Yoghurt', 'M'), ('Water', 'H')]","['Sugar', 'Salt', 'Lemon juice']"
+Lassi Khara,Highball Glass,"[('Yoghurt', 'M'), ('Water', 'H')]","['Salt', 'Asafoetida']"
+Lassi Raita,Highball Glass,"[('Yoghurt', 'H')]",['Ice']
+Lemon Drop,Cocktail glass,"[('Vodka', 'H'), ('Orange liqueur', 'H')]",['Lemon']
+Lemon Shot,Shot glass,"[('Galliano', 'H'), ('Vodka', 'H')]","['Lemon', 'Sugar']"
+Lemouroudji,Highball Glass,"[('Sugar', 'H')]","['Ginger', 'Water', 'Lemon', 'Cayenne pepper']"
+Limona Corona,Beer Glass,"[('Rum', 'L'), ('Corona', 'H')]",[]
+Loch Lomond,Cocktail glass,"[('Scotch', 'H'), ('Drambuie', 'L'), ('Dry vermouth', 'L')]",['Lemon peel']
+London Town,Cocktail glass,"[('Gin', 'H'), ('Cherry liqueur', 'M')]",['Orange bitters']
+Lone Tree Cocktail,Cocktail glass,"[('Sweet vermouth', 'M'), ('Gin', 'H')]",[]
+Long Island Iced Tea,Highball glass,"[('Vodka', 'M'), ('Tequila', 'M'), ('Light rum', 'M'), ('Gin', 'M')]","['Cola', 'Lemon peel']"
+Long Island Tea,Highball glass,"[('Vodka', 'M'), ('Light rum', 'M'), ('Gin', 'M'), ('Tequila', 'M')]","['Lemon', 'Cola']"
+Long vodka,Highball glass,"[('Vodka', 'M'), ('Water', 'H')]","['Lime', 'Angostura bitters', 'Ice']"
+Lord And Lady,Old-fashioned glass,"[('Dark rum', 'H'), ('Coffee liqueur', 'M')]",[]
+Lunch Box,Pint glass,"[('Amaretto', 'H'), ('Orange juice', 'M')]",['Ale']
+Mai Tai,Collins glass,"[('Light rum', 'M'), ('Orgeat syrup', 'L'), ('Triple sec', 'L'), ('Sweet and sour', 'H')]",['Cherry']
+Malibu Twister,Highball glass,"[('Rum', 'M'), ('Fruit juice', 'M'), ('Cranberry juice', 'L')]",[]
+Manhattan,Cocktail glass,"[('Sweet vermouth', 'M'), ('Bourbon', 'H')]","['Angostura bitters', 'Ice', 'Maraschino cherry', 'Orange peel']"
+Margarita,Cocktail glass,"[('Tequila', 'H'), ('Triple sec', 'L'), ('Lime juice', 'M')]",[]
+Martinez Cocktail,Cocktail glass,"[('Gin', 'H'), ('Dry vermouth', 'H')]","['Triple sec', 'Orange bitters', 'Cherry']"
+Martini,Cocktail glass,"[('Gin', 'H'), ('Dry vermouth', 'L')]",['Olive']
+Mary Pickford,Cocktail glass,"[('Light rum', 'H'), ('Pineapple juice', 'M')]","['Cherry liqueur', 'Syrup', 'Maraschino cherry']"
+Masala Chai,Coffee Mug,"[('Water', 'H')]","['Tea', 'Ginger', 'Cardamom', 'Cloves', 'Cinnamon', 'Black pepper', 'Sugar']"
+Miami Vice,Cocktail glass,"[('Rum', 'H')]","['Pina colada mix', 'Mixer liqueur']"
+Microwave Hot Cocoa,Coffee mug,"[('Milk', 'H')]","['Sugar', 'Cocoa powder', 'Salt', 'Water', 'Vanilla extract']"
+Midnight Cowboy,Cocktail glass,"[('Bourbon', 'H'), ('Dark rum', 'M'), ('Heavy cream', 'L')]",[]
+Midnight Manx,Old-fashioned glass,"[('Coffee liqueur', 'L'), ('Coffee liqueur', 'L'), ('Heavy cream', 'M'), ('Coffee', 'M')]",['Cinnamon liqueur']
+Midnight Mint,Cocktail glass,"[('Coffee liqueur', 'M'), ('Mint liqueur', 'M'), ('Cream', 'M')]",[]
+Mimosa,Champagne flute,"[('Orange juice', 'H')]",['Champagne']
+Mississippi Planters Punch,Collins glass,"[('Brandy', 'H'), ('Light rum', 'M'), ('Bourbon', 'M')]","['Lemon', 'Powdered sugar']"
+Mocha-Berry,Irish coffee cup,"[('Coffee', 'H'), ('Chambord raspberry liqueur', 'M')]",['Cocoa powder']
+Mojito,Highball glass,"[('Light rum', 'H')]","['Lime', 'Sugar', 'Mint']"
+Mojito #3,Collins glass,"[('Lemon juice', 'H')]","['Mint', 'Dark rum', 'Club soda', 'Angostura bitters']"
+Monkey Gland,Cocktail glass,"[('Gin', 'H'), ('Orange juice', 'L')]","['Liqueur', 'Syrup']"
+Monkey Wrench,Old-fashioned glass,"[('Light rum', 'M'), ('Grapefruit juice', 'H')]",['Bitters']
+Moscow Mule,Copper Mug,"[('Vodka', 'L'), ('Lime juice', 'L'), ('Ginger ale', 'H')]",[]
+Mother's Milk,Shot glass,"[('Cinnamon liqueur', 'M'), ('Schnapps', 'M'), ('Milk', 'M')]",[]
+Mudslinger,Punch bowl,"[('Whiskey', 'H'), ('Cola', 'H')]",['Orange juice']
+Mulled Wine,Collins Glass,"[('Water', 'H'), ('Sugar', 'L'), ('Red wine', 'H'), ('Brandy', 'L')]","['Cloves', 'Cinnamon', 'Lemon peel']"
+National Aquarium,Collins Glass,"[('Rum', 'L'), ('Vodka', 'L'), ('Gin', 'L'), ('Orange liqueur', 'L'), ('Sour mix', 'H')]",['Sprite']
+Negroni,Old-fashioned glass,"[('Gin', 'M'), ('Campari', 'M'), ('Sweet vermouth', 'M')]",[]
+New York Lemonade,Cocktail glass,"[('Vodka', 'M'), ('Orange liqueur', 'L'), ('Lemon juice', 'M'), ('Club soda', 'L')]",[]
+New York Sour,Whiskey sour glass,"[('Whiskey', 'H')]","['Lemon', 'Sugar', 'Red wine']"
+Nuked Hot Chocolate,Coffee mug,"[('Milk', 'H')]","['Cocoa powder', 'Sugar', 'Vanilla extract']"
+Nutty Irishman,Highball Glass,"[('Coffee liqueur', 'M'), ('Frangelico', 'M'), ('Milk', 'M')]",[]
+Old Fashioned,Old-fashioned glass,"[('Bourbon', 'H')]","['Angostura bitters', 'Sugar', 'Water']"
+Orange Crush,Shot glass,"[('Vodka', 'M'), ('Triple sec', 'M'), ('Orange juice', 'M')]",[]
+Orange Oasis,Highball glass,"[('Cherry brandy', 'L'), ('Gin', 'M'), ('Orange juice', 'H')]",[]
+Orange Push-up,Hurricane glass,"[('Spiced rum', 'M'), ('Syrup', 'L'), ('Orange juice', 'H')]",['Sour mix']
+Orange Scented Hot Chocolate,Coffee mug,"[('Milk', 'H'), ('Chocolate', 'L')]","['Orange peel', 'Coffee', 'Nutmeg']"
+Orange Whip,Collins Glass,"[('Orange juice', 'H'), ('Rum', 'L'), ('Vodka', 'L')]","['Cream', 'Ice']"
+Orangeade,Highball glass,"[('Lemon juice', 'M'), ('Orange juice', 'H'), ('Syrup', 'L')]",[]
+Oreo Mudslide,Collins Glass,"[('Vodka', 'M'), ('Coffee liqueur', 'M'), ('Coffee liqueur', 'M')]","['Vanilla ice-cream', 'Oreo cookie']"
+Orgasm,Cocktail glass,"[('Chocolate liqueur', 'L'), ('Amaretto', 'L'), ('Triple sec', 'L'), ('Vodka', 'L'), ('Light cream', 'M')]",[]
+Owen's Grandmother's Revenge,Highball glass,"[('Whiskey', 'M'), ('Ale', 'M'), ('Lemonade', 'M'), ('Ice', 'L')]",[]
+Paradise,Cocktail glass,"[('Gin', 'H'), ('Brandy', 'M'), ('Orange juice', 'M')]",[]
+Pina Colada,Collins glass,"[('Light rum', 'H')]","['Coconut milk', 'Pineapple']"
+Pink Gin,White wine glass,"[('Gin', 'H')]",['Bitters']
+Pink Lady,Cocktail glass,"[('Gin', 'H')]","['Syrup', 'Light cream', 'Egg white']"
+Pink Panty Pulldowns,Collins Glass,"[('Pink lemonade', 'H'), ('Vodka', 'H')]",['Sprite']
+Pink Penocha,Punch bowl,"[('Everclear', 'L'), ('Vodka', 'H'), ('Schnapps', 'H')]","['Orange juice', 'Cranberry juice']"
+Pisco Sour,Cocktail glass,"[('Brandy', 'H'), ('Lemon juice', 'M')]",['Sugar']
+Planter's Punch,Collins glass,"[('Dark rum', 'M'), ('Orgeat syrup', 'L'), ('Orange juice', 'H'), ('Pineapple juice', 'M')]",[]
+Popped cherry,Highball glass,"[('Vodka', 'L'), ('Cherry liqueur', 'L'), ('Cranberry juice', 'M'), ('Orange juice', 'M')]",[]
+Poppy Cocktail,Cocktail glass,"[('Gin', 'H'), ('Chocolate liqueur', 'M')]",[]
+Port And Starboard,Pousse cafe glass,"[('Mint liqueur', 'H')]",['Syrup']
+Port Wine Cocktail,Cocktail glass,"[('Port', 'H')]",['Brandy']
+Port Wine Flip,Whiskey sour glass,"[('Port', 'H')]","['Light cream', 'Powdered sugar', 'Egg']"
+Porto flip,Cocktail glass,"[('Brandy', 'M'), ('Port', 'H'), ('Egg yolk', 'L')]",[]
+Pysch Vitamin Light,Collins Glass,"[('Orange juice', 'M'), ('Apple juice', 'M'), ('Pineapple juice', 'M')]",[]
+Quaker's Cocktail,Cocktail glass,"[('Light rum', 'H'), ('Brandy', 'H')]","['Lemon', 'Raspberry syrup']"
+Quarter Deck Cocktail,Cocktail glass,"[('Sherry', 'H')]","['Light rum', 'Lime']"
+Queen Bee,Cocktail glass,"[('Coffee brandy', 'M'), ('Vodka', 'H'), ('Sherry', 'L')]",[]
+Queen Charlotte,Collins glass,"[('Red wine', 'H'), ('Syrup', 'M')]",[]
+Queen Elizabeth,Cocktail glass,"[('Dry vermouth', 'M'), ('Gin', 'H')]",['Liqueur']
+Quentin,Cocktail glass,"[('Dark rum', 'H'), ('Coffee liqueur', 'L'), ('Light cream', 'M')]",['Nutmeg']
+Quick F**K,Shot glass,"[('Coffee liqueur', 'M'), ('Melon liqueur', 'M'), ('Coffee liqueur', 'M')]",[]
+Quick-sand,Highball glass,"[('Sambuca', 'L'), ('Orange juice', 'H')]",[]
+Radioactive Long Island Iced Tea,Collins Glass,"[('Rum', 'L'), ('Vodka', 'L'), ('Tequila', 'L'), ('Gin', 'L'), ('Triple sec', 'L'), ('Chambord raspberry liqueur', 'L'), ('Melon liqueur', 'L'), ('Rum', 'L')]",[]
+Radler,Highball glass,"[('Ale', 'H'), ('Sprite', 'H')]",[]
+Raspberry Cooler,Highball glass,"[('Vodka', 'M'), ('Sprite', 'H')]",[]
+Red Snapper,Old-fashioned glass,"[('Whiskey', 'M'), ('Amaretto', 'M'), ('Cranberry juice', 'M')]",[]
+Rose,Cocktail glass,"[('Dry vermouth', 'M'), ('Gin', 'H'), ('Brandy', 'M')]","['Lemon juice', 'Syrup']"
+Royal Bitch,Shot glass,"[('Frangelico', 'H'), ('Whiskey', 'H')]",[]
+Royal Fizz,Collins glass,"[('Gin', 'M'), ('Sweet and sour', 'H')]",['Egg']
+Royal Flush,Old-fashioned glass,"[('Whiskey', 'M'), ('Schnapps', 'M'), ('Chambord raspberry liqueur', 'L'), ('Cranberry juice', 'M')]",[]
+Royal Gin Fizz,Highball glass,"[('Gin', 'H')]","['Lemon', 'Powdered sugar', 'Egg']"
+Ruby Tuesday,Highball glass,"[('Gin', 'M'), ('Cranberry juice', 'H')]",['Syrup']
+Rum Cobbler,Old-fashioned glass,"[('Club soda', 'H'), ('Dark rum', 'M')]","['Sugar', 'Lemon', 'Maraschino cherry', 'Orange']"
+Rum Cooler,Collins glass,"[('Rum', 'M'), ('Sprite', 'H')]",['Lemon']
+Rum Milk Punch,Collins glass,"[('Light rum', 'L'), ('Milk', 'H')]",['Powdered sugar']
+Rum Old-fashioned,Old-fashioned glass,"[('Light rum', 'H')]","['Rum', 'Powdered sugar', 'Bitters', 'Water', 'Lime peel']"
+Rum Punch,Punch bowl,"[('Fruit punch', 'H'), ('Orange juice', 'H')]","['Rum', 'Ginger ale', 'Ice']"
+Rum Runner,Cocktail glass,"[('Rum', 'L'), ('Blackberry brandy', 'L'), ('Orange juice', 'M'), ('Pineapple juice', 'M'), ('Cranberry juice', 'M')]",[]
+Rum Screwdriver,Highball glass,"[('Light rum', 'M'), ('Orange juice', 'H')]",[]
+Rum Sour,Whiskey sour glass,"[('Light rum', 'H'), ('Lemon juice', 'M')]","['Sugar', 'Orange', 'Maraschino cherry']"
+Rum Toddy,Old-fashioned glass,"[('Rum', 'H')]","['Powdered sugar', 'Lemon peel', 'Water']"
+Russian Spring Punch,Highball glass,"[('Vodka', 'M'), ('Creme de cassis', 'L'), ('Sugar syrup', 'L'), ('Lemon juice', 'M')]",[]
+Rusty Nail,Old-fashioned glass,"[('Scotch', 'H'), ('Drambuie', 'M')]",['Lemon peel']
+Salty Dog,Highball glass,"[('Grapefruit juice', 'H'), ('Gin', 'M')]",['Salt']
+San Francisco,Highball glass,"[('Vodka', 'H'), ('Banana liqueur', 'H')]",[]
+Sangria #1,Pitcher,"[('Sugar', 'L'), ('Orange juice', 'M'), ('Lemon juice', 'M')]",['Red wine']
+Sangria - The World's Best,Pitcher,"[('Sugar', 'H'), ('Brandy', 'M')]","['Red wine', 'Lemon', 'Orange', 'Apple']"
+Sazerac,Old-fashioned glass,"[('Bourbon', 'H')]","['Anis', 'Sugar', 'Bitters', 'Water', 'Lemon peel']"
+Scooter,Cocktail glass,"[('Brandy', 'M'), ('Amaretto', 'M'), ('Light cream', 'M')]",[]
+Scotch Cobbler,Old-fashioned glass,"[('Scotch', 'H')]","['Brandy', 'Curacao', 'Orange', 'Mint']"
+Scotch Sour,Whiskey sour glass,"[('Scotch', 'H')]","['Lime', 'Powdered sugar', 'Lemon', 'Cherry']"
+Scottish Highland Liqueur,Collins Glass,"[('Whiskey', 'H'), ('Honey', 'M')]","['Angelica root', 'Fennel seeds', 'Lemon peel']"
+Screaming Orgasm,Cocktail glass,"[('Vodka', 'M'), ('Coffee liqueur', 'H'), ('Coffee liqueur', 'L')]",[]
+Screwdriver,Highball glass,"[('Vodka', 'H')]",[]
+Sea breeze,Highball glass,"[('Vodka', 'M'), ('Cranberry juice', 'H'), ('Grapefruit juice', 'L')]",[]
+Sex on the Beach,Highball glass,"[('Vodka', 'H'), ('Schnapps', 'H')]",[]
+Shanghai Cocktail,Cocktail glass,"[('Light rum', 'H')]","['Anis', 'Syrup', 'Lemon']"
+Shark Attack,Pitcher,"[('Lemonade', 'L'), ('Water', 'H'), ('Vodka', 'M')]",[]
+Sherry Eggnog,Collins glass,"[('Sherry', 'H')]","['Powdered sugar', 'Egg']"
+Sherry Flip,Whiskey sour glass,"[('Sherry', 'H')]","['Light cream', 'Powdered sugar', 'Egg']"
+Shot-gun,Shot glass,"[('Bourbon', 'M'), ('Whiskey', 'M'), ('Bourbon', 'M')]",[]
+Sidecar,Cocktail glass,"[('Cognac', 'H'), ('Orange liqueur', 'L'), ('Lemon juice', 'M')]",[]
+Sidecar Cocktail,Cocktail glass,"[('Brandy', 'H'), ('Triple sec', 'M')]",['Lemon']
+Singapore Sling,Hurricane glass,"[('Cherry brandy', 'L'), ('Syrup', 'L'), ('Gin', 'M'), ('Sweet and sour', 'H')]",[]
+Sloe Gin Cocktail,Cocktail glass,"[('Gin', 'H')]","['Dry vermouth', 'Orange bitters']"
+Smut,Beer mug,"[('Red wine', 'L'), ('Schnapps', 'H'), ('Cola', 'L'), ('Orange juice', 'L')]",[]
+Snake Bite (UK),Pint glass,"[('Beer', 'H'), ('Cider', 'H')]",[]
+Snakebite and Black,Pint glass,"[('Beer', 'H'), ('Cider', 'H')]",['Blackcurrant juice']
+Snowball,Highball glass,"[('Advocaat', 'L'), ('Lemonade', 'H')]","['Lemon', 'Ice']"
+Sol Y Sombra,Brandy snifter,"[('Brandy', 'H'), ('Anis', 'H')]",[]
+Space Odyssey,Highball glass,"[('Rum', 'M'), ('Rum', 'M'), ('Pineapple juice', 'M')]",[]
+Spanish chocolate,Coffee mug,"[('Milk', 'H'), ('Chocolate', 'L')]","['Cinnamon', 'Egg yolk']"
+Spiced Peach Punch,Collins Glass,"[('Peach nectar', 'H'), ('Orange juice', 'M'), ('Brown sugar', 'L')]","['Cinnamon', 'Cloves', 'Lime juice']"
+Spritz,Old-Fashioned glass,"[('Prosecco', 'H'), ('Campari', 'M')]",['Water']
+Stinger,Cocktail glass,"[('Brandy', 'H'), ('Mint liqueur', 'M')]",[]
+Stone Sour,Whiskey sour glass,"[('Brandy', 'M'), ('Orange juice', 'M'), ('Sweet and sour', 'M')]",[]
+Strawberry Daiquiri,Cocktail glass,"[('Schnapps', 'L'), ('Light rum', 'M'), ('Lime juice', 'M'), ('Strawberries', 'M')]",['Powdered sugar']
+Strawberry Lemonade,Collins Glass,"[('Water', 'H')]","['Lemon', 'Sugar', 'Strawberries']"
+Strawberry Margarita,Cocktail glass,"[('Schnapps', 'L'), ('Tequila', 'M'), ('Triple sec', 'L'), ('Lemon juice', 'M'), ('Strawberries', 'M')]",[]
+Strawberry Shivers,Highball glass,"[('Strawberries', 'H'), ('Water', 'M')]",['Honey']
+Sunny Holiday Punch,Punch bowl,"[('Pineapple juice', 'H'), ('Club soda', 'M'), ('Orange juice', 'L'), ('Berries', 'L')]","['Lemon', 'Champagne']"
+Surf City Lifesaver,Highball glass,"[('Anis', 'M'), ('Coffee liqueur', 'M'), ('Gin', 'H'), ('Orange liqueur', 'L')]",[]
+Swedish Coffee,Coffee Mug,"[('Coffee', 'H'), ('Vodka', 'L')]",['Sugar']
+Sweet Bananas,Highball Glass,"[('Milk', 'H')]","['Banana', 'Honey']"
+Sweet Sangria,Pitcher,"[('Sugar', 'M'), ('Water', 'H'), ('Apple', 'M')]","['Red wine', 'Orange', 'Lime']"
+Sweet Tooth,Highball Glass,"[('Chocolate liqueur', 'H')]",[]
+Talos Coffee,Brandy snifter,"[('Orange liqueur', 'H'), ('Coffee', 'M')]",[]
+Tennesee Mud,Coffee Mug,"[('Coffee', 'H'), ('Whiskey', 'M'), ('Amaretto', 'M')]",[]
+Tequila Fizz,Collins glass,"[('Tequila', 'H'), ('Syrup', 'M')]","['Lemon juice', 'Egg white']"
+Tequila Sour,Whiskey sour glass,"[('Tequila', 'H')]","['Lemon', 'Powdered sugar', 'Lemon', 'Cherry']"
+Texas Rattlesnake,Highball glass,"[('Whiskey', 'M'), ('Cherry brandy', 'L'), ('Whiskey', 'M')]",['Sweet and sour']
+Texas Sling,Wine Glass,"[('Coffee liqueur', 'L'), ('Irish cream', 'L'), ('Amaretto', 'L'), ('Rum', 'L'), ('Cream', 'M')]",[]
+Thai Iced Tea,Highball glass,"[('Tea', 'M'), ('Water', 'H')]","['Condensed milk', 'Ice']"
+The Evil Blue Thing,Old-fashioned glass,"[('Chocolate liqueur', 'H'), ('Orange liqueur', 'M'), ('Light rum', 'L')]",[]
+Thriller,Cocktail glass,"[('Scotch', 'H'), ('Wine', 'M'), ('Orange juice', 'M')]",[]
+Tia-Maria,Collins Glass,"[('Water', 'H'), ('Brown sugar', 'L'), ('Rum', 'H')]","['Coffee', 'Vanilla extract']"
+Tom Collins,Collins glass,"[('Gin', 'M'), ('Lemon juice', 'L'), ('Club soda', 'H')]","['Sugar', 'Maraschino cherry', 'Orange']"
+Tomato Tang,Highball glass,"[('Tomato juice', 'H')]","['Lemon juice', 'Celery salt']"
+Tommy's Margarita,Old-Fashioned glass,"[('Tequila', 'H'), ('Lime juice', 'M')]",['Honey']
+Turf Cocktail,Cocktail glass,"[('Dry vermouth', 'H'), ('Gin', 'H')]","['Anis', 'Bitters', 'Orange peel']"
+Turkeyball,Shot glass,"[('Bourbon', 'H'), ('Amaretto', 'H')]",['Pineapple juice']
+Tuxedo Cocktail,Cocktail glass,"[('Dry vermouth', 'H'), ('Gin', 'H')]","['Cherry liqueur', 'Anis', 'Orange bitters', 'Cherry']"
+Valencia Cocktail,Cocktail glass,"[('Brandy', 'H')]","['Orange juice', 'Orange bitters']"
+Vampiro,Old-Fashioned glass,"[('Tequila', 'H'), ('Tomato juice', 'M'), ('Orange juice', 'M'), ('Lime juice', 'L')]","['Sugar syrup', 'Salt']"
+Van Vleet,Old-fashioned glass,"[('Light rum', 'H'), ('Maple syrup', 'L'), ('Lemon juice', 'L')]",[]
+Vermouth Cassis,Highball glass,"[('Dry vermouth', 'H'), ('Creme de cassis', 'M')]",[]
+Vesper,Cocktail glass,"[('Gin', 'H'), ('Vodka', 'L'), ('Wine', 'L')]",[]
+Vesuvio,Old-fashioned glass,"[('Light rum', 'H'), ('Sweet vermouth', 'M')]","['Lemon', 'Powdered sugar', 'Egg white']"
+Veteran,Old-fashioned glass,"[('Dark rum', 'H'), ('Cherry brandy', 'L')]",[]
+Victor,Cocktail glass,"[('Gin', 'H'), ('Sweet vermouth', 'L'), ('Brandy', 'L')]",[]
+Victory Collins,Collins glass,"[('Vodka', 'L'), ('Lemon juice', 'M'), ('Grape juice', 'M')]","['Powdered sugar', 'Orange']"
+Vodka And Tonic,Highball glass,"[('Vodka', 'H')]",[]
+Vodka Fizz,White wine glass,"[('Vodka', 'M'), ('Iced tea', 'M'), ('Lime juice', 'M')]",[]
+Vodka Martini,Cocktail glass,"[('Vodka', 'H'), ('Dry vermouth', 'M')]",['Olive']
+Vodka Russian,Collins Glass,"[('Vodka', 'H')]",[]
+Waikiki Beachcomber,Cocktail glass,"[('Triple sec', 'H'), ('Gin', 'H')]",['Pineapple juice']
+Whiskey Sour,Old-fashioned glass,"[('Whiskey', 'H')]","['Lemon', 'Powdered sugar', 'Cherry', 'Lemon']"
+Whisky Mac,Collins Glass,"[('Scotch', 'H'), ('Wine', 'M')]",[]
+White Lady,Cocktail glass,"[('Gin', 'H'), ('Orange liqueur', 'M'), ('Lemon juice', 'M')]",[]
+White Russian,Old-fashioned glass,"[('Vodka', 'H'), ('Coffee liqueur', 'M')]",[]
+Whitecap Margarita,Margarita/Coupette glass,"[('Ice', 'H'), ('Tequila', 'L'), ('Coconut milk', 'L')]",['Lime juice']
+Wine Cooler,Collins Glass,"[('Red wine', 'M'), ('Sprite', 'H')]",['Ice']
+Wine Punch,Collins Glass,"[('Orange juice', 'H'), ('Pineapple juice', 'H')]","['Red wine', 'Lemon', 'Orange']"
+Yellow Bird,Cocktail glass,"[('Light rum', 'M'), ('Galliano', 'L'), ('Orange liqueur', 'L'), ('Lime juice', 'L')]",[]
+Yoghurt Cooler,Highball Glass,"[('Yoghurt', 'H'), ('Fruit', 'H')]",[]
+Zambeer,Collins Glass,"[('Anis', 'L'), ('Root beer', 'H')]",['Ice']
+Zenmeister,Collins Glass,"[('Jägermeister', 'H'), ('Root beer', 'H')]",[]
+Ziemes Martini Apfelsaft,Collins Glass,"[('Vermouth', 'L'), ('Apple juice', 'H')]",[]
+Zima Blaster,Hurricane glass,"[('Beer', 'H'), ('Chambord raspberry liqueur', 'L')]",[]
+Zimadori Zinger,Collins glass,"[('Melon liqueur', 'L'), ('Beer', 'H')]",[]
+Zinger,Highball glass,"[('Peach liqueur', 'H'), ('Mountain dew', 'H')]",[]
+Zipperhead,Whiskey sour glass,"[('Chambord raspberry liqueur', 'H'), ('Vodka', 'H')]",['Water']
+Zippy's Revenge,Old-fashioned glass,"[('Amaretto', 'M'), ('Rum', 'M'), ('Kool-aid', 'H')]",[]
+Zizi Coin-coin,Margarita/Coupette glass,"[('Orange liqueur', 'H'), ('Lemon juice', 'M')]","['Ice', 'Lemon']"
+Zorbatini,Cocktail glass,"[('Vodka', 'H'), ('Anis', 'L')]",[]
+Zorro,Coffee Mug,"[('Anis', 'M'), ('Coffee liqueur', 'M'), ('Mint liqueur', 'M')]",[]

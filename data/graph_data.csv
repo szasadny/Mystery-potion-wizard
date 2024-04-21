@@ -1,0 +1,1407 @@
+Ingredient1,Ingredient2,Weight
+Chocolate liqueur,Vodka,L
+Vodka,Chocolate liqueur,L
+Chocolate liqueur,Rum,L
+Rum,Chocolate liqueur,L
+Chocolate liqueur,Light rum,H
+Light rum,Chocolate liqueur,H
+Chocolate liqueur,Orange liqueur,H
+Orange liqueur,Chocolate liqueur,H
+Chocolate liqueur,Milk,H
+Milk,Chocolate liqueur,H
+Chocolate liqueur,Coconut liqueur,L
+Coconut liqueur,Chocolate liqueur,L
+Chocolate liqueur,Vanilla ice-cream,H
+Vanilla ice-cream,Chocolate liqueur,H
+Chocolate liqueur,Gin,H
+Gin,Chocolate liqueur,H
+Chocolate liqueur,Light cream,L
+Light cream,Chocolate liqueur,L
+Chocolate liqueur,Amaretto,L
+Amaretto,Chocolate liqueur,L
+Chocolate liqueur,Coffee,L
+Coffee,Chocolate liqueur,L
+Chocolate liqueur,Coffee liqueur,M
+Coffee liqueur,Chocolate liqueur,M
+Chocolate liqueur,Schnapps,M
+Schnapps,Chocolate liqueur,M
+Chocolate liqueur,Anis,H
+Anis,Chocolate liqueur,H
+Chocolate liqueur,Advocaat,H
+Advocaat,Chocolate liqueur,H
+Chocolate liqueur,Brandy,M
+Brandy,Chocolate liqueur,M
+Chocolate liqueur,Banana liqueur,L
+Banana liqueur,Chocolate liqueur,L
+Chocolate liqueur,Chocolate syrup,M
+Chocolate syrup,Chocolate liqueur,M
+Chocolate liqueur,Chocolate milk,M
+Chocolate milk,Chocolate liqueur,M
+Chocolate liqueur,Mint liqueur,M
+Mint liqueur,Chocolate liqueur,M
+Chocolate liqueur,Triple sec,L
+Triple sec,Chocolate liqueur,L
+Vodka,Orange liqueur,M
+Orange liqueur,Vodka,M
+Vodka,Chambord raspberry liqueur,H
+Chambord raspberry liqueur,Vodka,H
+Vodka,Melon liqueur,L
+Melon liqueur,Vodka,L
+Vodka,Rum,L
+Rum,Vodka,L
+Vodka,Amaretto,L
+Amaretto,Vodka,L
+Vodka,Cranberry juice,M
+Cranberry juice,Vodka,M
+Vodka,Pineapple juice,H
+Pineapple juice,Vodka,H
+Vodka,Dark rum,L
+Dark rum,Vodka,L
+Vodka,Light rum,M
+Light rum,Vodka,M
+Vodka,Orange juice,L
+Orange juice,Vodka,L
+Vodka,Gin,H
+Gin,Vodka,H
+Vodka,Tequila,L
+Tequila,Vodka,L
+Vodka,Triple sec,L
+Triple sec,Vodka,L
+Vodka,Schnapps,H
+Schnapps,Vodka,H
+Vodka,Brandy,M
+Brandy,Vodka,M
+Vodka,Mint liqueur,L
+Mint liqueur,Vodka,L
+Vodka,Whiskey,L
+Whiskey,Vodka,L
+Vodka,Water,H
+Water,Vodka,H
+Vodka,Banana liqueur,H
+Banana liqueur,Vodka,H
+Vodka,Coconut liqueur,H
+Coconut liqueur,Vodka,H
+Vodka,Sweet and sour,L
+Sweet and sour,Vodka,L
+Vodka,Sprite,M
+Sprite,Vodka,M
+Vodka,Ginger ale,L
+Ginger ale,Vodka,L
+Vodka,Salt,L
+Salt,Vodka,L
+Vodka,Sugar,M
+Sugar,Vodka,M
+Vodka,Champagne,H
+Champagne,Vodka,H
+Vodka,Grape soda,M
+Grape soda,Vodka,M
+Vodka,Iced tea,M
+Iced tea,Vodka,M
+Vodka,Lime juice,M
+Lime juice,Vodka,M
+Vodka,Passion fruit syrup,L
+Passion fruit syrup,Vodka,L
+Vodka,Lemonade,L
+Lemonade,Vodka,L
+Vodka,Apple juice,L
+Apple juice,Vodka,L
+Vodka,Lemon juice,L
+Lemon juice,Vodka,L
+Vodka,Peach nectar,H
+Peach nectar,Vodka,H
+Vodka,Coffee liqueur,H
+Coffee liqueur,Vodka,H
+Vodka,Tomato juice,M
+Tomato juice,Vodka,M
+Vodka,Everclear,L
+Everclear,Vodka,L
+Vodka,Peach liqueur,M
+Peach liqueur,Vodka,M
+Vodka,Cherry grenadine,L
+Cherry grenadine,Vodka,L
+Vodka,Club soda,M
+Club soda,Vodka,M
+Vodka,Chocolate ice-cream,L
+Chocolate ice-cream,Vodka,L
+Vodka,Coffee,H
+Coffee,Vodka,H
+Vodka,Firewater,H
+Firewater,Vodka,H
+Vodka,Dr. pepper,L
+Dr. pepper,Vodka,L
+Vodka,Ale,L
+Ale,Vodka,L
+Vodka,Jägermeister,M
+Jägermeister,Vodka,M
+Vodka,Anis,H
+Anis,Vodka,H
+Vodka,Raspberry liqueur,H
+Raspberry liqueur,Vodka,H
+Vodka,Galliano,H
+Galliano,Vodka,H
+Vodka,Sirup of roses,H
+Sirup of roses,Vodka,H
+Vodka,Heavy cream,M
+Heavy cream,Vodka,M
+Vodka,Corn syrup,L
+Corn syrup,Vodka,L
+Vodka,Vanilla extract,L
+Vanilla extract,Vodka,L
+Vodka,Bourbon,L
+Bourbon,Vodka,L
+Vodka,Apple liqueur,L
+Apple liqueur,Vodka,L
+Vodka,Schweppe,L
+Schweppe,Vodka,L
+Vodka,Kool-aid,H
+Kool-aid,Vodka,H
+Vodka,Sour mix,L
+Sour mix,Vodka,L
+Vodka,Light cream,L
+Light cream,Vodka,L
+Vodka,Pink lemonade,H
+Pink lemonade,Vodka,H
+Vodka,Cherry liqueur,L
+Cherry liqueur,Vodka,L
+Vodka,Coffee brandy,M
+Coffee brandy,Vodka,M
+Vodka,Sherry,H
+Sherry,Vodka,H
+Vodka,Creme de cassis,M
+Creme de cassis,Vodka,M
+Vodka,Sugar syrup,M
+Sugar syrup,Vodka,M
+Vodka,Grapefruit juice,M
+Grapefruit juice,Vodka,M
+Vodka,Wine,L
+Wine,Vodka,L
+Vodka,Grape juice,L
+Grape juice,Vodka,L
+Vodka,Dry vermouth,H
+Dry vermouth,Vodka,H
+Orange liqueur,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Orange liqueur,L
+Orange liqueur,Melon liqueur,L
+Melon liqueur,Orange liqueur,L
+Orange liqueur,Rum,L
+Rum,Orange liqueur,L
+Orange liqueur,Amaretto,M
+Amaretto,Orange liqueur,M
+Orange liqueur,Cranberry juice,L
+Cranberry juice,Orange liqueur,L
+Orange liqueur,Pineapple juice,L
+Pineapple juice,Orange liqueur,L
+Orange liqueur,Light rum,M
+Light rum,Orange liqueur,M
+Orange liqueur,Milk,L
+Milk,Orange liqueur,L
+Orange liqueur,Coconut liqueur,M
+Coconut liqueur,Orange liqueur,M
+Orange liqueur,Vanilla ice-cream,L
+Vanilla ice-cream,Orange liqueur,L
+Orange liqueur,Orange juice,M
+Orange juice,Orange liqueur,M
+Orange liqueur,Gin,H
+Gin,Orange liqueur,H
+Orange liqueur,Lemon juice,H
+Lemon juice,Orange liqueur,H
+Orange liqueur,Syrup,M
+Syrup,Orange liqueur,M
+Orange liqueur,Whiskey,M
+Whiskey,Orange liqueur,M
+Orange liqueur,Lemonade,H
+Lemonade,Orange liqueur,H
+Orange liqueur,Triple sec,L
+Triple sec,Orange liqueur,L
+Orange liqueur,Coffee liqueur,M
+Coffee liqueur,Orange liqueur,M
+Orange liqueur,Anis,M
+Anis,Orange liqueur,M
+Orange liqueur,Tequila,L
+Tequila,Orange liqueur,L
+Orange liqueur,Lime juice,L
+Lime juice,Orange liqueur,L
+Orange liqueur,Cherry grenadine,L
+Cherry grenadine,Orange liqueur,L
+Orange liqueur,Sweet and sour,L
+Sweet and sour,Orange liqueur,L
+Orange liqueur,Club soda,L
+Club soda,Orange liqueur,L
+Orange liqueur,Galliano,L
+Galliano,Orange liqueur,L
+Orange liqueur,Cream,M
+Cream,Orange liqueur,M
+Orange liqueur,Schnapps,L
+Schnapps,Orange liqueur,L
+Orange liqueur,Cider,H
+Cider,Orange liqueur,H
+Orange liqueur,Beer,H
+Beer,Orange liqueur,H
+Orange liqueur,Sour mix,L
+Sour mix,Orange liqueur,L
+Orange liqueur,Cognac,H
+Cognac,Orange liqueur,H
+Orange liqueur,Coffee,H
+Coffee,Orange liqueur,H
+Chambord raspberry liqueur,Melon liqueur,L
+Melon liqueur,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Rum,L
+Rum,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Amaretto,L
+Amaretto,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Cranberry juice,L
+Cranberry juice,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Pineapple juice,L
+Pineapple juice,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Peach liqueur,M
+Peach liqueur,Chambord raspberry liqueur,M
+Chambord raspberry liqueur,Baileys,H
+Baileys,Chambord raspberry liqueur,H
+Chambord raspberry liqueur,Coffee,H
+Coffee,Chambord raspberry liqueur,H
+Chambord raspberry liqueur,Tequila,L
+Tequila,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Gin,L
+Gin,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Triple sec,L
+Triple sec,Chambord raspberry liqueur,L
+Chambord raspberry liqueur,Whiskey,M
+Whiskey,Chambord raspberry liqueur,M
+Chambord raspberry liqueur,Schnapps,M
+Schnapps,Chambord raspberry liqueur,M
+Chambord raspberry liqueur,Beer,H
+Beer,Chambord raspberry liqueur,H
+Melon liqueur,Rum,L
+Rum,Melon liqueur,L
+Melon liqueur,Amaretto,L
+Amaretto,Melon liqueur,L
+Melon liqueur,Cranberry juice,M
+Cranberry juice,Melon liqueur,M
+Melon liqueur,Pineapple juice,L
+Pineapple juice,Melon liqueur,L
+Melon liqueur,Water,M
+Water,Melon liqueur,M
+Melon liqueur,Banana liqueur,L
+Banana liqueur,Melon liqueur,L
+Melon liqueur,Whiskey,M
+Whiskey,Melon liqueur,M
+Melon liqueur,Sour mix,L
+Sour mix,Melon liqueur,L
+Melon liqueur,Sweet and sour,M
+Sweet and sour,Melon liqueur,M
+Melon liqueur,Jägermeister,M
+Jägermeister,Melon liqueur,M
+Melon liqueur,Cinnamon liqueur,M
+Cinnamon liqueur,Melon liqueur,M
+Melon liqueur,Dark rum,L
+Dark rum,Melon liqueur,L
+Melon liqueur,Triple sec,L
+Triple sec,Melon liqueur,L
+Melon liqueur,Tequila,L
+Tequila,Melon liqueur,L
+Melon liqueur,Coffee liqueur,M
+Coffee liqueur,Melon liqueur,M
+Melon liqueur,Gin,L
+Gin,Melon liqueur,L
+Melon liqueur,Beer,L
+Beer,Melon liqueur,L
+Rum,Amaretto,M
+Amaretto,Rum,M
+Rum,Cranberry juice,L
+Cranberry juice,Rum,L
+Rum,Pineapple juice,M
+Pineapple juice,Rum,M
+Rum,Light rum,L
+Light rum,Rum,L
+Rum,Milk,L
+Milk,Rum,L
+Rum,Coconut liqueur,L
+Coconut liqueur,Rum,L
+Rum,Vanilla ice-cream,L
+Vanilla ice-cream,Rum,L
+Rum,Cinnamon liqueur,M
+Cinnamon liqueur,Rum,M
+Rum,Jägermeister,M
+Jägermeister,Rum,M
+Rum,Schnapps,L
+Schnapps,Rum,L
+Rum,Bourbon,H
+Bourbon,Rum,H
+Rum,Orange juice,L
+Orange juice,Rum,L
+Rum,Syrup,L
+Syrup,Rum,L
+Rum,Lemon juice,H
+Lemon juice,Rum,H
+Rum,Ginger ale,L
+Ginger ale,Rum,L
+Rum,Tequila,L
+Tequila,Rum,L
+Rum,Triple sec,L
+Triple sec,Rum,L
+Rum,Salt,L
+Salt,Rum,L
+Rum,Dry vermouth,M
+Dry vermouth,Rum,M
+Rum,Cognac,M
+Cognac,Rum,M
+Rum,Gin,L
+Gin,Rum,L
+Rum,Lime juice,H
+Lime juice,Rum,H
+Rum,Sugar syrup,M
+Sugar syrup,Rum,M
+Rum,Water,H
+Water,Rum,H
+Rum,Apple juice,H
+Apple juice,Rum,H
+Rum,Tea,M
+Tea,Rum,M
+Rum,Whiskey,M
+Whiskey,Rum,M
+Rum,Red wine,L
+Red wine,Rum,L
+Rum,Brandy,L
+Brandy,Rum,L
+Rum,Liqueur,L
+Liqueur,Rum,L
+Rum,Lemonade,H
+Lemonade,Rum,H
+Rum,Galliano,M
+Galliano,Rum,M
+Rum,Coffee liqueur,L
+Coffee liqueur,Rum,L
+Rum,Everclear,M
+Everclear,Rum,M
+Rum,Cola,M
+Cola,Rum,M
+Rum,Dr. pepper,L
+Dr. pepper,Rum,L
+Rum,Ale,L
+Ale,Rum,L
+Rum,Honey,H
+Honey,Rum,H
+Rum,Sweet and sour,L
+Sweet and sour,Rum,L
+Rum,Grapefruit juice,H
+Grapefruit juice,Rum,H
+Rum,Maraschino liqueur,H
+Maraschino liqueur,Rum,H
+Rum,Fruit juice,M
+Fruit juice,Rum,M
+Rum,Sour mix,L
+Sour mix,Rum,L
+Rum,Sprite,M
+Sprite,Rum,M
+Rum,Blackberry brandy,L
+Blackberry brandy,Rum,L
+Rum,Irish cream,L
+Irish cream,Rum,L
+Rum,Cream,L
+Cream,Rum,L
+Rum,Brown sugar,L
+Brown sugar,Rum,L
+Rum,Kool-aid,M
+Kool-aid,Rum,M
+Amaretto,Cranberry juice,M
+Cranberry juice,Amaretto,M
+Amaretto,Pineapple juice,L
+Pineapple juice,Amaretto,L
+Amaretto,Orange juice,H
+Orange juice,Amaretto,H
+Amaretto,Syrup,L
+Syrup,Amaretto,L
+Amaretto,Whiskey,M
+Whiskey,Amaretto,M
+Amaretto,Gin,M
+Gin,Amaretto,M
+Amaretto,Coffee,H
+Coffee,Amaretto,H
+Amaretto,Light cream,M
+Light cream,Amaretto,M
+Amaretto,Lime juice,H
+Lime juice,Amaretto,H
+Amaretto,Brandy,M
+Brandy,Amaretto,M
+Amaretto,Sour mix,M
+Sour mix,Amaretto,M
+Amaretto,Mint liqueur,H
+Mint liqueur,Amaretto,H
+Amaretto,Tequila,M
+Tequila,Amaretto,M
+Amaretto,Cider,M
+Cider,Amaretto,M
+Amaretto,Ice,M
+Ice,Amaretto,M
+Amaretto,Tea,H
+Tea,Amaretto,H
+Amaretto,Dr. pepper,L
+Dr. pepper,Amaretto,L
+Amaretto,Ale,L
+Ale,Amaretto,L
+Amaretto,Cognac,H
+Cognac,Amaretto,H
+Amaretto,Heavy cream,M
+Heavy cream,Amaretto,M
+Amaretto,Scotch,H
+Scotch,Amaretto,H
+Amaretto,Jägermeister,L
+Jägermeister,Amaretto,L
+Amaretto,Coffee liqueur,L
+Coffee liqueur,Amaretto,L
+Amaretto,Milk,L
+Milk,Amaretto,L
+Amaretto,Triple sec,L
+Triple sec,Amaretto,L
+Amaretto,Irish cream,L
+Irish cream,Amaretto,L
+Amaretto,Cream,L
+Cream,Amaretto,L
+Amaretto,Bourbon,H
+Bourbon,Amaretto,H
+Amaretto,Kool-aid,M
+Kool-aid,Amaretto,M
+Cranberry juice,Pineapple juice,M
+Pineapple juice,Cranberry juice,M
+Cranberry juice,Schnapps,M
+Schnapps,Cranberry juice,M
+Cranberry juice,Orange juice,M
+Orange juice,Cranberry juice,M
+Cranberry juice,Water,M
+Water,Cranberry juice,M
+Cranberry juice,Banana liqueur,M
+Banana liqueur,Cranberry juice,M
+Cranberry juice,Coconut liqueur,L
+Coconut liqueur,Cranberry juice,L
+Cranberry juice,Ginger ale,M
+Ginger ale,Cranberry juice,M
+Cranberry juice,Peach liqueur,M
+Peach liqueur,Cranberry juice,M
+Cranberry juice,Lime juice,L
+Lime juice,Cranberry juice,L
+Cranberry juice,Sugar,M
+Sugar,Cranberry juice,M
+Cranberry juice,Fruit juice,M
+Fruit juice,Cranberry juice,M
+Cranberry juice,Cherry liqueur,L
+Cherry liqueur,Cranberry juice,L
+Cranberry juice,Whiskey,M
+Whiskey,Cranberry juice,M
+Cranberry juice,Gin,M
+Gin,Cranberry juice,M
+Cranberry juice,Blackberry brandy,L
+Blackberry brandy,Cranberry juice,L
+Cranberry juice,Grapefruit juice,H
+Grapefruit juice,Cranberry juice,H
+Pineapple juice,Schnapps,L
+Schnapps,Pineapple juice,L
+Pineapple juice,Coconut liqueur,L
+Coconut liqueur,Pineapple juice,L
+Pineapple juice,Syrup,H
+Syrup,Pineapple juice,H
+Pineapple juice,Orange juice,H
+Orange juice,Pineapple juice,H
+Pineapple juice,Whiskey,H
+Whiskey,Pineapple juice,H
+Pineapple juice,Dry vermouth,M
+Dry vermouth,Pineapple juice,M
+Pineapple juice,Cream,M
+Cream,Pineapple juice,M
+Pineapple juice,Water,L
+Water,Pineapple juice,L
+Pineapple juice,Guava juice,M
+Guava juice,Pineapple juice,M
+Pineapple juice,Pineapple,L
+Pineapple,Pineapple juice,L
+Pineapple juice,Sugar,L
+Sugar,Pineapple juice,L
+Pineapple juice,Galliano,L
+Galliano,Pineapple juice,L
+Pineapple juice,Passion fruit juice,H
+Passion fruit juice,Pineapple juice,H
+Pineapple juice,Lemon juice,H
+Lemon juice,Pineapple juice,H
+Pineapple juice,Ginger ale,M
+Ginger ale,Pineapple juice,M
+Pineapple juice,Raspberry liqueur,L
+Raspberry liqueur,Pineapple juice,L
+Pineapple juice,Gin,H
+Gin,Pineapple juice,H
+Pineapple juice,Triple sec,M
+Triple sec,Pineapple juice,M
+Pineapple juice,Light rum,H
+Light rum,Pineapple juice,H
+Pineapple juice,Dark rum,M
+Dark rum,Pineapple juice,M
+Pineapple juice,Orgeat syrup,L
+Orgeat syrup,Pineapple juice,L
+Pineapple juice,Apple juice,M
+Apple juice,Pineapple juice,M
+Pineapple juice,Blackberry brandy,L
+Blackberry brandy,Pineapple juice,L
+Pineapple juice,Club soda,H
+Club soda,Pineapple juice,H
+Pineapple juice,Berries,H
+Berries,Pineapple juice,H
+Beer,Tequila,H
+Tequila,Beer,H
+Beer,Dark rum,M
+Dark rum,Beer,M
+Beer,Cider,H
+Cider,Beer,H
+Tequila,Gin,L
+Gin,Tequila,L
+Tequila,Light rum,M
+Light rum,Tequila,M
+Tequila,Triple sec,M
+Triple sec,Tequila,M
+Tequila,Salt,L
+Salt,Tequila,L
+Tequila,Sour mix,M
+Sour mix,Tequila,M
+Tequila,Apple cider,L
+Apple cider,Tequila,L
+Tequila,Tomato juice,H
+Tomato juice,Tequila,H
+Tequila,Lime juice,H
+Lime juice,Tequila,H
+Tequila,Tabasco sauce,H
+Tabasco sauce,Tequila,H
+Tequila,Cherry grenadine,L
+Cherry grenadine,Tequila,L
+Tequila,Sweet and sour,L
+Sweet and sour,Tequila,L
+Tequila,Club soda,L
+Club soda,Tequila,L
+Tequila,Fruit punch,M
+Fruit punch,Tequila,M
+Tequila,Sprite,L
+Sprite,Tequila,L
+Tequila,Dark rum,L
+Dark rum,Tequila,L
+Tequila,Schnapps,L
+Schnapps,Tequila,L
+Tequila,Lemon juice,M
+Lemon juice,Tequila,M
+Tequila,Strawberries,M
+Strawberries,Tequila,M
+Tequila,Syrup,H
+Syrup,Tequila,H
+Tequila,Orange juice,H
+Orange juice,Tequila,H
+Tequila,Ice,H
+Ice,Tequila,H
+Tequila,Coconut milk,L
+Coconut milk,Tequila,L
+Light rum,Milk,L
+Milk,Light rum,L
+Light rum,Coconut liqueur,L
+Coconut liqueur,Light rum,L
+Light rum,Vanilla ice-cream,L
+Vanilla ice-cream,Light rum,L
+Light rum,Dark rum,L
+Dark rum,Light rum,L
+Light rum,Orange juice,M
+Orange juice,Light rum,M
+Light rum,Gin,M
+Gin,Light rum,M
+Light rum,Triple sec,M
+Triple sec,Light rum,M
+Light rum,Ginger beer,M
+Ginger beer,Light rum,M
+Light rum,Lemon juice,H
+Lemon juice,Light rum,H
+Light rum,Ginger ale,L
+Ginger ale,Light rum,L
+Light rum,Brandy,H
+Brandy,Light rum,H
+Light rum,Lime juice,M
+Lime juice,Light rum,M
+Light rum,Cherry grenadine,L
+Cherry grenadine,Light rum,L
+Light rum,Sweet and sour,M
+Sweet and sour,Light rum,M
+Light rum,Club soda,L
+Club soda,Light rum,L
+Light rum,Port,H
+Port,Light rum,H
+Light rum,Sugar,L
+Sugar,Light rum,L
+Light rum,Bourbon,M
+Bourbon,Light rum,M
+Light rum,Whipped cream,L
+Whipped cream,Light rum,L
+Light rum,Ice,L
+Ice,Light rum,L
+Light rum,Whiskey,M
+Whiskey,Light rum,M
+Light rum,Coffee liqueur,H
+Coffee liqueur,Light rum,H
+Light rum,Orgeat syrup,M
+Orgeat syrup,Light rum,M
+Light rum,Grapefruit juice,M
+Grapefruit juice,Light rum,M
+Light rum,Schnapps,L
+Schnapps,Light rum,L
+Light rum,Strawberries,M
+Strawberries,Light rum,M
+Light rum,Maple syrup,H
+Maple syrup,Light rum,H
+Light rum,Sweet vermouth,H
+Sweet vermouth,Light rum,H
+Light rum,Galliano,M
+Galliano,Light rum,M
+Milk,Coconut liqueur,L
+Coconut liqueur,Milk,L
+Milk,Vanilla ice-cream,H
+Vanilla ice-cream,Milk,H
+Milk,Gin,H
+Gin,Milk,H
+Milk,Syrup,L
+Syrup,Milk,L
+Milk,Heavy cream,L
+Heavy cream,Milk,L
+Milk,Coffee liqueur,M
+Coffee liqueur,Milk,M
+Milk,Orange juice,H
+Orange juice,Milk,H
+Milk,Yoghurt,H
+Yoghurt,Milk,H
+Milk,Cocoa powder,L
+Cocoa powder,Milk,L
+Milk,Sugar,L
+Sugar,Milk,L
+Milk,Water,L
+Water,Milk,L
+Milk,Chocolate,H
+Chocolate,Milk,H
+Milk,Bourbon,H
+Bourbon,Milk,H
+Milk,Whipped cream,H
+Whipped cream,Milk,H
+Milk,Egg,L
+Egg,Milk,L
+Milk,Condensed milk,H
+Condensed milk,Milk,H
+Milk,Coffee,L
+Coffee,Milk,L
+Milk,Jägermeister,L
+Jägermeister,Milk,L
+Milk,Cinnamon liqueur,M
+Cinnamon liqueur,Milk,M
+Milk,Schnapps,M
+Schnapps,Milk,M
+Milk,Frangelico,M
+Frangelico,Milk,M
+Coconut liqueur,Vanilla ice-cream,L
+Vanilla ice-cream,Coconut liqueur,L
+Coconut liqueur,Schnapps,L
+Schnapps,Coconut liqueur,L
+Dark rum,Orange juice,M
+Orange juice,Dark rum,M
+Dark rum,Peach nectar,M
+Peach nectar,Dark rum,M
+Dark rum,Lemon juice,H
+Lemon juice,Dark rum,H
+Dark rum,Coffee liqueur,H
+Coffee liqueur,Dark rum,H
+Dark rum,Triple sec,L
+Triple sec,Dark rum,L
+Dark rum,Bourbon,H
+Bourbon,Dark rum,H
+Dark rum,Heavy cream,M
+Heavy cream,Dark rum,M
+Dark rum,Orgeat syrup,M
+Orgeat syrup,Dark rum,M
+Dark rum,Light cream,H
+Light cream,Dark rum,H
+Dark rum,Club soda,H
+Club soda,Dark rum,H
+Dark rum,Cherry brandy,H
+Cherry brandy,Dark rum,H
+Orange juice,Syrup,H
+Syrup,Orange juice,H
+Orange juice,Schnapps,H
+Schnapps,Orange juice,H
+Orange juice,Lemon juice,M
+Lemon juice,Orange juice,M
+Orange juice,Ginger ale,L
+Ginger ale,Orange juice,L
+Orange juice,Gin,H
+Gin,Orange juice,H
+Orange juice,Sweet vermouth,M
+Sweet vermouth,Orange juice,M
+Orange juice,Peach nectar,H
+Peach nectar,Orange juice,H
+Orange juice,Triple sec,M
+Triple sec,Orange juice,M
+Orange juice,Cream,M
+Cream,Orange juice,M
+Orange juice,Sour mix,M
+Sour mix,Orange juice,M
+Orange juice,Grapefruit juice,H
+Grapefruit juice,Orange juice,H
+Orange juice,Apple juice,M
+Apple juice,Orange juice,M
+Orange juice,Apple cider,H
+Apple cider,Orange juice,H
+Orange juice,Brown sugar,M
+Brown sugar,Orange juice,M
+Orange juice,Lemonade,L
+Lemonade,Orange juice,L
+Orange juice,Grape soda,M
+Grape soda,Orange juice,M
+Orange juice,Tea,M
+Tea,Orange juice,M
+Orange juice,Whiskey,M
+Whiskey,Orange juice,M
+Orange juice,Red wine,L
+Red wine,Orange juice,L
+Orange juice,Brandy,M
+Brandy,Orange juice,M
+Orange juice,Liqueur,L
+Liqueur,Orange juice,L
+Orange juice,Coffee liqueur,L
+Coffee liqueur,Orange juice,L
+Orange juice,Cherry liqueur,L
+Cherry liqueur,Orange juice,L
+Orange juice,Water,M
+Water,Orange juice,M
+Orange juice,Yoghurt,H
+Yoghurt,Orange juice,H
+Orange juice,Galliano,L
+Galliano,Orange juice,L
+Orange juice,Bourbon,L
+Bourbon,Orange juice,L
+Orange juice,Peach brandy,L
+Peach brandy,Orange juice,L
+Orange juice,Sweet and sour,M
+Sweet and sour,Orange juice,M
+Orange juice,Cherry brandy,L
+Cherry brandy,Orange juice,L
+Orange juice,Spiced rum,M
+Spiced rum,Orange juice,M
+Orange juice,Orgeat syrup,L
+Orgeat syrup,Orange juice,L
+Orange juice,Sambuca,L
+Sambuca,Orange juice,L
+Orange juice,Fruit punch,H
+Fruit punch,Orange juice,H
+Orange juice,Blackberry brandy,L
+Blackberry brandy,Orange juice,L
+Orange juice,Sugar,L
+Sugar,Orange juice,L
+Orange juice,Cola,L
+Cola,Orange juice,L
+Orange juice,Club soda,M
+Club soda,Orange juice,M
+Orange juice,Berries,L
+Berries,Orange juice,L
+Orange juice,Scotch,H
+Scotch,Orange juice,H
+Orange juice,Wine,M
+Wine,Orange juice,M
+Orange juice,Tomato juice,M
+Tomato juice,Orange juice,M
+Orange juice,Lime juice,M
+Lime juice,Orange juice,M
+Cinnamon liqueur,Jägermeister,M
+Jägermeister,Cinnamon liqueur,M
+Cinnamon liqueur,Schnapps,M
+Schnapps,Cinnamon liqueur,M
+Cinnamon liqueur,Irish cream,H
+Irish cream,Cinnamon liqueur,H
+Cinnamon liqueur,Whiskey,H
+Whiskey,Cinnamon liqueur,H
+Jägermeister,Schnapps,M
+Schnapps,Jägermeister,M
+Jägermeister,Anis,M
+Anis,Jägermeister,M
+Jägermeister,Coffee liqueur,L
+Coffee liqueur,Jägermeister,L
+Jägermeister,Root beer,H
+Root beer,Jägermeister,H
+Schnapps,Sprite,H
+Sprite,Schnapps,H
+Schnapps,Champagne,H
+Champagne,Schnapps,H
+Schnapps,Peach nectar,M
+Peach nectar,Schnapps,M
+Schnapps,Coffee liqueur,M
+Coffee liqueur,Schnapps,M
+Schnapps,Sweet and sour,L
+Sweet and sour,Schnapps,L
+Schnapps,Everclear,L
+Everclear,Schnapps,L
+Schnapps,Whiskey,M
+Whiskey,Schnapps,M
+Schnapps,Red wine,L
+Red wine,Schnapps,L
+Schnapps,Cola,H
+Cola,Schnapps,H
+Schnapps,Lime juice,L
+Lime juice,Schnapps,L
+Schnapps,Strawberries,L
+Strawberries,Schnapps,L
+Schnapps,Triple sec,L
+Triple sec,Schnapps,L
+Schnapps,Lemon juice,L
+Lemon juice,Schnapps,L
+Bourbon,Whiskey,M
+Whiskey,Bourbon,M
+Bourbon,Dry vermouth,H
+Dry vermouth,Bourbon,H
+Bourbon,Lemon juice,M
+Lemon juice,Bourbon,M
+Bourbon,Cola,H
+Cola,Bourbon,H
+Bourbon,Sugar,L
+Sugar,Bourbon,L
+Bourbon,Whipped cream,L
+Whipped cream,Bourbon,L
+Bourbon,Coffee liqueur,L
+Coffee liqueur,Bourbon,L
+Bourbon,Club soda,M
+Club soda,Bourbon,M
+Bourbon,Liqueur,H
+Liqueur,Bourbon,H
+Bourbon,Sweet vermouth,M
+Sweet vermouth,Bourbon,M
+Bourbon,Heavy cream,H
+Heavy cream,Bourbon,H
+Bourbon,Brandy,H
+Brandy,Bourbon,H
+Whiskey,Mint liqueur,M
+Mint liqueur,Whiskey,M
+Whiskey,Gin,M
+Gin,Whiskey,M
+Whiskey,Dry vermouth,H
+Dry vermouth,Whiskey,H
+Whiskey,Sour mix,H
+Sour mix,Whiskey,H
+Whiskey,Tea,M
+Tea,Whiskey,M
+Whiskey,Red wine,M
+Red wine,Whiskey,M
+Whiskey,Brandy,M
+Brandy,Whiskey,M
+Whiskey,Liqueur,H
+Liqueur,Whiskey,H
+Whiskey,Lemon juice,M
+Lemon juice,Whiskey,M
+Whiskey,Passion fruit syrup,L
+Passion fruit syrup,Whiskey,L
+Whiskey,Sweet and sour,M
+Sweet and sour,Whiskey,M
+Whiskey,Coffee liqueur,L
+Coffee liqueur,Whiskey,L
+Whiskey,Triple sec,H
+Triple sec,Whiskey,H
+Whiskey,Coffee,H
+Coffee,Whiskey,H
+Whiskey,Peach brandy,M
+Peach brandy,Whiskey,M
+Whiskey,Cola,H
+Cola,Whiskey,H
+Whiskey,Ale,M
+Ale,Whiskey,M
+Whiskey,Lemonade,M
+Lemonade,Whiskey,M
+Whiskey,Ice,M
+Ice,Whiskey,M
+Whiskey,Frangelico,H
+Frangelico,Whiskey,H
+Whiskey,Honey,H
+Honey,Whiskey,H
+Whiskey,Cherry brandy,L
+Cherry brandy,Whiskey,L
+Gin,Triple sec,H
+Triple sec,Gin,H
+Gin,Sprite,M
+Sprite,Gin,M
+Gin,Lemon juice,H
+Lemon juice,Gin,H
+Gin,Syrup,L
+Syrup,Gin,L
+Gin,Water,H
+Water,Gin,H
+Gin,Sweet vermouth,H
+Sweet vermouth,Gin,H
+Gin,Heavy cream,H
+Heavy cream,Gin,H
+Gin,Cognac,L
+Cognac,Gin,L
+Gin,Creme de cassis,M
+Creme de cassis,Gin,M
+Gin,Vermouth,H
+Vermouth,Gin,H
+Gin,Dry vermouth,H
+Dry vermouth,Gin,H
+Gin,Lime juice,M
+Lime juice,Gin,M
+Gin,Sugar syrup,L
+Sugar syrup,Gin,L
+Gin,Liqueur,H
+Liqueur,Gin,H
+Gin,Light cream,L
+Light cream,Gin,L
+Gin,Brandy,H
+Brandy,Gin,H
+Gin,Apple brandy,M
+Apple brandy,Gin,M
+Gin,Wine,H
+Wine,Gin,H
+Gin,Maraschino liqueur,H
+Maraschino liqueur,Gin,H
+Gin,Creme de mure,H
+Creme de mure,Gin,H
+Gin,Cherry grenadine,L
+Cherry grenadine,Gin,L
+Gin,Sweet and sour,M
+Sweet and sour,Gin,M
+Gin,Club soda,M
+Club soda,Gin,M
+Gin,Ginger ale,M
+Ginger ale,Gin,M
+Gin,Port,H
+Port,Gin,H
+Gin,Champagne,M
+Champagne,Gin,M
+Gin,Aperol,L
+Aperol,Gin,L
+Gin,Cherry liqueur,H
+Cherry liqueur,Gin,H
+Gin,Sour mix,L
+Sour mix,Gin,L
+Gin,Campari,M
+Campari,Gin,M
+Gin,Cherry brandy,L
+Cherry brandy,Gin,L
+Gin,Grapefruit juice,H
+Grapefruit juice,Gin,H
+Gin,Anis,M
+Anis,Gin,M
+Gin,Coffee liqueur,M
+Coffee liqueur,Gin,M
+Triple sec,Salt,L
+Salt,Triple sec,L
+Triple sec,Brandy,H
+Brandy,Triple sec,H
+Triple sec,Apple liqueur,M
+Apple liqueur,Triple sec,M
+Triple sec,Lemon juice,L
+Lemon juice,Triple sec,L
+Triple sec,Lemonade,H
+Lemonade,Triple sec,H
+Triple sec,Sour mix,L
+Sour mix,Triple sec,L
+Triple sec,Lime juice,L
+Lime juice,Triple sec,L
+Triple sec,Orgeat syrup,L
+Orgeat syrup,Triple sec,L
+Triple sec,Sweet and sour,L
+Sweet and sour,Triple sec,L
+Triple sec,Light cream,L
+Light cream,Triple sec,L
+Triple sec,Strawberries,L
+Strawberries,Triple sec,L
+Sprite,Lemon juice,H
+Lemon juice,Sprite,H
+Sprite,Sweet and sour,L
+Sweet and sour,Sprite,L
+Sprite,Water,L
+Water,Sprite,L
+Sprite,Fruit punch,M
+Fruit punch,Sprite,M
+Sprite,Ale,H
+Ale,Sprite,H
+Sprite,Red wine,M
+Red wine,Sprite,M
+Lemon juice,Ginger ale,L
+Ginger ale,Lemon juice,L
+Lemon juice,Syrup,M
+Syrup,Lemon juice,M
+Lemon juice,Cognac,H
+Cognac,Lemon juice,H
+Lemon juice,Creme de cassis,L
+Creme de cassis,Lemon juice,L
+Lemon juice,Apple liqueur,M
+Apple liqueur,Lemon juice,M
+Lemon juice,Brandy,H
+Brandy,Lemon juice,H
+Lemon juice,Tea,M
+Tea,Lemon juice,M
+Lemon juice,Red wine,L
+Red wine,Lemon juice,L
+Lemon juice,Liqueur,L
+Liqueur,Lemon juice,L
+Lemon juice,Banana liqueur,L
+Banana liqueur,Lemon juice,L
+Lemon juice,Apple juice,H
+Apple juice,Lemon juice,H
+Lemon juice,Maraschino liqueur,L
+Maraschino liqueur,Lemon juice,L
+Lemon juice,Passion fruit juice,M
+Passion fruit juice,Lemon juice,M
+Lemon juice,Creme de mure,L
+Creme de mure,Lemon juice,L
+Lemon juice,Champagne,M
+Champagne,Lemon juice,M
+Lemon juice,Galliano,M
+Galliano,Lemon juice,M
+Lemon juice,Sirup of roses,M
+Sirup of roses,Lemon juice,M
+Lemon juice,Honey,M
+Honey,Lemon juice,M
+Lemon juice,Club soda,L
+Club soda,Lemon juice,L
+Lemon juice,Sugar syrup,L
+Sugar syrup,Lemon juice,L
+Lemon juice,Sugar,L
+Sugar,Lemon juice,L
+Lemon juice,Strawberries,M
+Strawberries,Lemon juice,M
+Lemon juice,Maple syrup,L
+Maple syrup,Lemon juice,L
+Lemon juice,Grape juice,M
+Grape juice,Lemon juice,M
+Coffee liqueur,Frangelico,M
+Frangelico,Coffee liqueur,M
+Coffee liqueur,Coffee,L
+Coffee,Coffee liqueur,L
+Coffee liqueur,Anis,M
+Anis,Coffee liqueur,M
+Coffee liqueur,Galliano,H
+Galliano,Coffee liqueur,H
+Coffee liqueur,Chocolate ice-cream,L
+Chocolate ice-cream,Coffee liqueur,L
+Coffee liqueur,Brandy,H
+Brandy,Coffee liqueur,H
+Coffee liqueur,Heavy cream,L
+Heavy cream,Coffee liqueur,L
+Coffee liqueur,Mint liqueur,M
+Mint liqueur,Coffee liqueur,M
+Coffee liqueur,Cream,L
+Cream,Coffee liqueur,L
+Coffee liqueur,Light cream,L
+Light cream,Coffee liqueur,L
+Coffee liqueur,Irish cream,L
+Irish cream,Coffee liqueur,L
+Syrup,Heavy cream,L
+Heavy cream,Syrup,L
+Syrup,Cream,L
+Cream,Syrup,L
+Syrup,Passion fruit juice,M
+Passion fruit juice,Syrup,M
+Syrup,Creme de mure,L
+Creme de mure,Syrup,L
+Syrup,Spiced rum,M
+Spiced rum,Syrup,M
+Syrup,Red wine,H
+Red wine,Syrup,H
+Syrup,Cherry brandy,L
+Cherry brandy,Syrup,L
+Syrup,Sweet and sour,L
+Sweet and sour,Syrup,L
+Ginger ale,Sugar,L
+Sugar,Ginger ale,L
+Ginger ale,Brandy,M
+Brandy,Ginger ale,M
+Ginger ale,Lime juice,L
+Lime juice,Ginger ale,L
+Water,Banana liqueur,M
+Banana liqueur,Water,M
+Water,Sweet and sour,L
+Sweet and sour,Water,L
+Water,Dry vermouth,L
+Dry vermouth,Water,L
+Water,Cognac,L
+Cognac,Water,L
+Water,Lime juice,L
+Lime juice,Water,L
+Water,Sugar syrup,L
+Sugar syrup,Water,L
+Water,Guava juice,L
+Guava juice,Water,L
+Water,Pineapple,L
+Pineapple,Water,L
+Water,Sugar,M
+Sugar,Water,M
+Water,Brandy,H
+Brandy,Water,H
+Water,Cocoa powder,L
+Cocoa powder,Water,L
+Water,Coffee,L
+Coffee,Water,L
+Water,Mint liqueur,M
+Mint liqueur,Water,M
+Water,Cherry liqueur,M
+Cherry liqueur,Water,M
+Water,Corn syrup,L
+Corn syrup,Water,L
+Water,Vanilla extract,L
+Vanilla extract,Water,L
+Water,Yoghurt,M
+Yoghurt,Water,M
+Water,Red wine,H
+Red wine,Water,H
+Water,Lemonade,L
+Lemonade,Water,L
+Water,Strawberries,H
+Strawberries,Water,H
+Water,Apple,H
+Apple,Water,H
+Water,Tea,M
+Tea,Water,M
+Water,Brown sugar,H
+Brown sugar,Water,H
+Banana liqueur,Apple juice,L
+Apple juice,Banana liqueur,L
+Banana liqueur,Chocolate syrup,L
+Chocolate syrup,Banana liqueur,L
+Banana liqueur,Chocolate milk,L
+Chocolate milk,Banana liqueur,L
+Brandy,Sugar,H
+Sugar,Brandy,H
+Brandy,Apple brandy,M
+Apple brandy,Brandy,M
+Brandy,Champagne,M
+Champagne,Brandy,M
+Brandy,Tea,M
+Tea,Brandy,M
+Brandy,Red wine,H
+Red wine,Brandy,H
+Brandy,Liqueur,H
+Liqueur,Brandy,H
+Brandy,Dry vermouth,M
+Dry vermouth,Brandy,M
+Brandy,Light cream,M
+Light cream,Brandy,M
+Brandy,Club soda,M
+Club soda,Brandy,M
+Brandy,Lime juice,H
+Lime juice,Brandy,H
+Brandy,Pineapple syrup,H
+Pineapple syrup,Brandy,H
+Brandy,Sweet vermouth,L
+Sweet vermouth,Brandy,L
+Brandy,Port,M
+Port,Brandy,M
+Brandy,Egg yolk,M
+Egg yolk,Brandy,M
+Brandy,Anis,H
+Anis,Brandy,H
+Brandy,Mint liqueur,H
+Mint liqueur,Brandy,H
+Brandy,Sweet and sour,M
+Sweet and sour,Brandy,M
+Apple liqueur,Grapefruit juice,H
+Grapefruit juice,Apple liqueur,H
+Apple liqueur,Schweppe,L
+Schweppe,Apple liqueur,L
+Apple liqueur,Apple juice,L
+Apple juice,Apple liqueur,L
+Grapefruit juice,Apple juice,M
+Apple juice,Grapefruit juice,M
+Grapefruit juice,Maraschino liqueur,M
+Maraschino liqueur,Grapefruit juice,M
+Grapefruit juice,Lime juice,M
+Lime juice,Grapefruit juice,M
+Mint liqueur,Sugar,H
+Sugar,Mint liqueur,H
+Mint liqueur,Light cream,M
+Light cream,Mint liqueur,M
+Mint liqueur,Cream,M
+Cream,Mint liqueur,M
+Mint liqueur,Anis,M
+Anis,Mint liqueur,M
+Sweet vermouth,Dry vermouth,L
+Dry vermouth,Sweet vermouth,L
+Sweet vermouth,Sherry,M
+Sherry,Sweet vermouth,M
+Sweet vermouth,Scotch,H
+Scotch,Sweet vermouth,H
+Sweet vermouth,Campari,M
+Campari,Sweet vermouth,M
+Sweet vermouth,Wine,H
+Wine,Sweet vermouth,H
+Sweet vermouth,Club soda,M
+Club soda,Sweet vermouth,M
+Peach nectar,Brown sugar,H
+Brown sugar,Peach nectar,H
+Sweet and sour,Passion fruit syrup,L
+Passion fruit syrup,Sweet and sour,L
+Sweet and sour,Cherry grenadine,L
+Cherry grenadine,Sweet and sour,L
+Sweet and sour,Club soda,L
+Club soda,Sweet and sour,L
+Sweet and sour,Peach brandy,L
+Peach brandy,Sweet and sour,L
+Sweet and sour,Orgeat syrup,L
+Orgeat syrup,Sweet and sour,L
+Sweet and sour,Cherry brandy,L
+Cherry brandy,Sweet and sour,L
+Heavy cream,Chocolate,L
+Chocolate,Heavy cream,L
+Heavy cream,Coffee,M
+Coffee,Heavy cream,M
+Cognac,Creme de cassis,M
+Creme de cassis,Cognac,M
+Cognac,Dry vermouth,L
+Dry vermouth,Cognac,L
+Cognac,Lime juice,L
+Lime juice,Cognac,L
+Cognac,Sugar syrup,L
+Sugar syrup,Cognac,L
+Creme de cassis,Champagne,L
+Champagne,Creme de cassis,L
+Creme de cassis,Sugar syrup,L
+Sugar syrup,Creme de cassis,L
+Creme de cassis,Dry vermouth,H
+Dry vermouth,Creme de cassis,H
+Lemonade,Apple cider,H
+Apple cider,Lemonade,H
+Lemonade,Brown sugar,L
+Brown sugar,Lemonade,L
+Lemonade,Ale,M
+Ale,Lemonade,M
+Lemonade,Ice,M
+Ice,Lemonade,M
+Lemonade,Advocaat,L
+Advocaat,Lemonade,L
+Dry vermouth,Lime juice,L
+Lime juice,Dry vermouth,L
+Dry vermouth,Sugar syrup,L
+Sugar syrup,Dry vermouth,L
+Dry vermouth,Scotch,H
+Scotch,Dry vermouth,H
+Dry vermouth,Drambuie,L
+Drambuie,Dry vermouth,L
+Vermouth,Apple juice,L
+Apple juice,Vermouth,L
+Lime juice,Sugar syrup,L
+Sugar syrup,Lime juice,L
+Lime juice,Pineapple syrup,M
+Pineapple syrup,Lime juice,M
+Lime juice,Liqueur,M
+Liqueur,Lime juice,M
+Lime juice,Ice,L
+Ice,Lime juice,L
+Lime juice,Club soda,M
+Club soda,Lime juice,M
+Lime juice,Maraschino liqueur,L
+Maraschino liqueur,Lime juice,L
+Lime juice,Aperol,M
+Aperol,Lime juice,M
+Lime juice,Strawberries,M
+Strawberries,Lime juice,M
+Lime juice,Tomato juice,M
+Tomato juice,Lime juice,M
+Lime juice,Iced tea,M
+Iced tea,Lime juice,M
+Lime juice,Galliano,L
+Galliano,Lime juice,L
+Sherry,Coffee brandy,M
+Coffee brandy,Sherry,M
+Scotch,Iced tea,M
+Iced tea,Scotch,M
+Scotch,Condensed milk,M
+Condensed milk,Scotch,M
+Scotch,Drambuie,H
+Drambuie,Scotch,H
+Scotch,Wine,H
+Wine,Scotch,H
+Coffee,Sugar,L
+Sugar,Coffee,L
+Coffee,Everclear,H
+Everclear,Coffee,H
+Coffee,Corn syrup,L
+Corn syrup,Coffee,L
+Coffee,Vanilla extract,L
+Vanilla extract,Coffee,L
+Liqueur,Tea,M
+Tea,Liqueur,M
+Liqueur,Red wine,L
+Red wine,Liqueur,L
+Liqueur,Pineapple syrup,M
+Pineapple syrup,Liqueur,M
+Cream,Galliano,M
+Galliano,Cream,M
+Cream,Irish cream,L
+Irish cream,Cream,L
+Guava juice,Pineapple,M
+Pineapple,Guava juice,M
+Guava juice,Sugar,M
+Sugar,Guava juice,M
+Pineapple,Sugar,L
+Sugar,Pineapple,L
+Sugar,Cocoa powder,L
+Cocoa powder,Sugar,L
+Sugar,Whipped cream,M
+Whipped cream,Sugar,M
+Sugar,Corn syrup,M
+Corn syrup,Sugar,M
+Sugar,Vanilla extract,M
+Vanilla extract,Sugar,M
+Sugar,Yoghurt,H
+Yoghurt,Sugar,H
+Sugar,Red wine,L
+Red wine,Sugar,L
+Sugar,Apple,M
+Apple,Sugar,M
+Cider,Ice,M
+Ice,Cider,M
+Ice,Ale,M
+Ale,Ice,M
+Ice,Coconut milk,H
+Coconut milk,Ice,H
+Tea,Red wine,M
+Red wine,Tea,M
+Campari,Prosecco,H
+Prosecco,Campari,H
+Apple juice,Strawberries,H
+Strawberries,Apple juice,H
+Apple juice,Schweppe,M
+Schweppe,Apple juice,M
+Berries,Club soda,M
+Club soda,Berries,M
+Apple cider,Brown sugar,H
+Brown sugar,Apple cider,H
+Maui,Mountain dew,H
+Mountain dew,Maui,H
+Mountain dew,Peach liqueur,H
+Peach liqueur,Mountain dew,H
+Iced tea,Chocolate,H
+Chocolate,Iced tea,H
+Iced tea,Condensed milk,M
+Condensed milk,Iced tea,M
+Red wine,Cola,L
+Cola,Red wine,L
+Anis,Advocaat,H
+Advocaat,Anis,H
+Anis,Blackberry brandy,H
+Blackberry brandy,Anis,H
+Anis,Root beer,L
+Root beer,Anis,L
+Yoghurt,Fruit juice,H
+Fruit juice,Yoghurt,H
+Yoghurt,Fruit,H
+Fruit,Yoghurt,H
+Galliano,Sirup of roses,L
+Sirup of roses,Galliano,L
+Ale,Guinness stout,H
+Guinness stout,Ale,H
+Ale,Dr. pepper,L
+Dr. pepper,Ale,L
+Club soda,Cherry grenadine,L
+Cherry grenadine,Club soda,L
+Port,Egg yolk,H
+Egg yolk,Port,H
+Chocolate syrup,Chocolate milk,L
+Chocolate milk,Chocolate syrup,L
+Egg,Condensed milk,L
+Condensed milk,Egg,L
+Corn syrup,Vanilla extract,L
+Vanilla extract,Corn syrup,L
+Kiwi liqueur,Bitter lemon,M
+Bitter lemon,Kiwi liqueur,M
